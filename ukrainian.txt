@@ -221,76 +221,76 @@ In this casino you have the opportunity to test your intuition and increase your
 == В цьому казино у вас є можливість перевірити свою інтуїцію і збільшити свої гроші або, навпаки, втратити усі свої кошти.
 
 To place a bet, write the command /bet <amount>, then select the desired bet type and left click with hammer on the bet type button.
-== Щоб сделать ставку, напишите команду /bet <сумма>, затем выберите желаемый тип ставки и щелкните левой кнопкой мыши на кнопку типа ставки.
+== Щоб зробити ставку, скористайтеся командою /bet <сума>, потім оберіть бажаний тип ставки і клацніть лівою кнопкою миші на кнопку типа ставки.
 
 Betting 1-12, 13-24, 24-36 gives x3 if you win (returns your bet and two more on top), at 0 gives x36, odd/red/black/even gives x2.
-== Ставка 1-12, 13-24, 24-36 даёт x3 при победе (возвращает вашу ставку и ещё две сверху), на 0 даёт x36, нечётное/красное/чёрное/чётное дают x2.
+== Ставка 1-12, 13-24, 24-36 даёт x3 при виграші (повертає вашу ставку і ще дві зверху), на 0 дає x36, непарне/червоне/чорне/парне дають  x2.
 
 Catching up.
 == Догонялки.
 
 If you have a flag, you must catch up and hit the hammer and freeze all players.
-== Если у вас есть флаг, то вы должны догнать и ударить молотком и заморозить всех игроков.
+== Якщо у вас є прапор, то ви повинні наздогнати й вдарити молотом і заморозити всіх гравців.
 
 If you don't have a flag, you must run away from the player with the flag.
-== Если у вас нет флага, вам нужно убегать от игрока с флагом.
+== Якщо у вас немає прапора, вам потрібно тікати від гравця з прапором.
 
 If your mate is frozen, hit him with the hammer 10 times to save him.
-== Если ваш товарищ заморожен, ударьте его молотком 10 раз для спасения.
+== Якщо ваш товариш заморожений, вдарте його молотком 10 раз для спасіння.
 
 The laser should help you cross obstacles faster.
-== Лазер должен помочь вам быстрее пересекать преграды.
+== Лазер має допомогти вам скоріше перетинати перешкоди.
 
 Climbing.
-== Скалолазание.
+== Скалолазіння.
 
 In this mode you can slide on walls. Press the button to move towards the wall.
-== В этом режиме вы можете скользить по стенам. Нажимайте кнопку движения к стене для этого.
+== В цьому режимі у вас є можливість ковзати по стінам. Натискайте кнопку руху до стіни для цього.
 
 Once you get to the top you will be able to enter a special room.
-== Добравшись до самого верха вы сможете пройти в специальную комнату.
+== Діставшись до самого верху ви зможете пройти в спеціальну кімнату.
 
 Hide and seek.
-== Прятки.
+== Хованки.
 
 If you have a flag, you must catch up and hit all players with the hammer. The gun will help you to know the direction.
-== Если у вас есть флаг, то вы должны догнать и ударить молотком всех игроков. Пистолет поможет вам узнать направление.
+== Якщо у вас є прапор, то ви маєте наздогнати й вдарити молотком всіх гравців. Пічтодет допоможе вам дізнатись напрямок.
 
 If you don't have a flag, you have to hide from the player with the flag. You are not visible in grey areas until you are approached closely.
-== Если у вас нет флага, вам нужно скрываться от игрока с флагом. Вас не видно в серых зонах до тех пор, пока к вам не подойдут вплотную.
+== Якщо у вас немає прапора, вам треба ховатися від гравця з прапором. Вас не видно в сірих зонах до тих пір, поки до вас не підійдуть впритул.
 
 The hammer will help you activate your invisibility ability. Keep an eye on the progress bar, grey zones replenish your invisibility.
-== Молоток поможет вам активировать вашу способность невидимости. Следите за прогресс баром, серые зоны восполняют ваш запас невидимости.
+== Молоток допоможе вам активувати вашу здатність невидимості. Слідкуйте за прогрес баром, сірі зони заповнюють ваш запас невидимості.
 
 Karting.
 == Картинг.
 
 Here you need to be the first to come to the finish line after driving the required number of laps.
-== Здесь вам необходимо первым прийти к финишу проехав необходимое количество кругов.
+== Тут вам необхідно першим прийти до фінішу проїхавши необхідну кількість кіл.
 
 Collect money, they will come to you on account if you manage to complete the race.
-== Собирайте деньги, они поступят вам насчёт если вы успеете завершить гонку.
+== Збирайте гроші, вони надійдуть вам на рахунок якщо ви встигнете завершити гонку.
 
 Pick up bonuses, they will help you get ahead of your rivals.
-== Подбирайте бонусы, они помогут вам опережать соперников.
+== Підбирайте бонуси, вони допоможуть вам випереджати суперників.
 
 Undertale in Teeworlds.
-== Undertale на минималках.
+== Undertale на мінімалках.
 
 You need to stay in this room until the timer expires.
-== Вам необходимо продержаться в этой комнате до истечения таймера.
+== Вам необхіжно протриматися в цій кімнаті до закінчення таймера.
 
 Lasers will hinder you, you need to dodge and avoid them if you want to survive.
-== Лазеры будет мешать вам, вам необходимо уклоняться и избегать их если вы хотите выжить.
+== Лазери будуть заважати вам, вам необхідно ухилятися й уникати їх якщо ви хочете вижити.
 
 Hurry to enter the room with the reward, it opens 5 seconds before the timer expires.
-== Успейте завти в комнату с наградой, она открывается за 5 секунд до окончания таймера.
+== Встигнете зайти в кімнату з нагородою, вона відкривається за 5 секунд до закінчення таймеру.
 
 Use the command '/showothers' to see the other participants.
-== Используй команду '/showothers', чтобы видеть остальных участников.
+== Використовуй команду '/showothers', щоб бачити решти учасників.
 
 Tournament.
-== Турнир.
+== Турнір. 
 
 Here you need to defeat all other participants.
 == Здесь вам необходимо победить всех остальных участников.
