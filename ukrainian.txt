@@ -5,37 +5,37 @@ Back
 == Назад
 
 Username
-== Имя пользователя
+== Ім'я користувача
 
 verified
-== подтверждён
+== підтверджено
 
 not verified
-== не подтверждён
+== не підтверджено
 
 Contact
 == Контакт
 
 Pin
-== Пин код
+== ПІН-код 
 
 Level
-== Уровень
+== Рівень
 
 Experience
-== Опыт
+== Досвід
 
 Bank
 == Банк
 
 Wallet
-== Кошелёк
+== Гаманець
 
 Laser-Ammo
-== Патроны для лазера
+== Патрони для лазера
 
 Dash
-== Дэши
+== Деші
 
 Shop
 == Магазин
@@ -44,7 +44,7 @@ Statistic
 == Статистика
 
 Cash
-== Деньги
+== Гроші
 
 Online
 == Онлайн
@@ -53,25 +53,25 @@ Block
 == Блок
 
 Duel
-== Дуэль
+== Дуель
 
 Duel Block
-== Блок Дуэль
+== Блок Дуель
 
 Arena
 == Арена
 
 Laser Room
-== Лазерная комната
+== Лазерна кімната
 
 Battle
 == Батл
 
 Catch
-== Догонялки
+== Наздоганялки
 
 Hide and Seek
-== Прятки
+== Хованки
 
 Karting
 == Картинг
@@ -83,10 +83,10 @@ Spike
 == Шип
 
 Clan Cash
-== Деньги клана
+== Гроші клана
 
 Clan Level
-== Уровень клана
+== Рівень клана
 
 Roulette
 == Рулетка
@@ -95,133 +95,133 @@ Crash
 == Краш
 
 GiftHunt
-== Охота за подарками
+== Полювання за подарунками
 
 Duel Fng
-== FNG Дуэль
+== FNG Дуель
 
 Quest
 == Квест
 
 Reward
-== Награда
+== Нагорода
 
 Saves
-== Сохранения
+== Збереження
 
 Refresh
-== Обновить
+== Оновити
 
 Load Save
-== Загрузить сохранение
+== Завантажити збереження
 
 Save-function is disabled on this server
-== Функция сохранения отключена на этом сервере
+== Функція збереження вимкнена на цьому сервері
 
 No saves found.
-== Сохранения не найдены.
+== Збереження не знайдені.
 
 Vote players
-== Выбор игроков
+== Вибір гравців
 
 Mails
-== Почта
+== Пошта
 
 FNG kill steal protection
-== FNG защита от стила киллов
+== FNG захист від стила кілів
 
 FNG hook block protection
-== FNG защита от блока хуком
+== FNG захист від блоку хуком
 
 Extra weapon auto-switch
-== Автосмена доп. оружия
+== Автозміна доп. зброї
 
 │ ✔ Mark all as read
-== │ ✔ Отметить все прочитанными
+== │ ✔ Відмітити все прочитанним
 
 │ ⬇ Receive all items
-== │ ⬇ Забрать все предметы
+== │ ⬇ Забрати всі предмети
 
 │ ✘ Delete all read mails
-== │ ✘ Удалить все прочитанные
+== │ ✘ Видалити всі прочитанні
 
 Name prefix
-== Префикс имени
+== Префікс імені
 
 Authorize to get access to account benefits:
-== Авторизуйся для доступа:
+== Авторизуйся для доступу:
 
 1. Register: '/register <username> <password>'
-== 1. Регистрация: '/register <username> <password>'
+== 1. Регістрація: '/register <username> <password>'
 
 2. Login: '/login <username> <password>'
-== 2. Авторизация: '/login <username> <password>'
+== 2. Авторизація: '/login <username> <password>'
 
 3. Protection: '/pin <pin>'
-== 3. Защита: '/pin <pin>'
+== 3. ПІН: '/pin <pin>'
 
 Votes
-== Голосования
+== Голосування
 
 Game Votes
-== Игровые голосования
+== Ігрові голосування
 
 Empty
-== Пусто
+== Порожньо
 
 Deposit
-== Положить на счёт
+== Покласти на рахунок
 
 Withdraw
-== Вывести с счёта
+== Вивести з рахунку
 
 Please specify correct amount in vote reason.
-== Укажите корректную сумму в причине голосования.
+== Вкажіть коректну суму в причині голосування.
 
 Use value in vote reason
-== Укажите сумму в причине
+== Вкажите суму в причині
 
 Leave reason blank to put all in (deposit only)
-== Пустая чтобы положить всё
+== Порожня щоб покласти все
 
 Click tab to hide
-== Нажмите таб чтобы скрыть
+== Нажміть таб щоб сховати
 
 Arena.
 == Арена.
 
 Here you need to be the last one left alive in the arena.
-== Здесь вам необходимо последним остаться живым на арене.
+== Тут вам необхідно останнім залишиться живим на арені.
 
 The last player left in the arena gets a nice reward.
-== Последний игрок оставшийся на арене получает хорошую награду.
+== Останній гравець який залишився на арені отримує добру нагороду.
 
 In this team game, you need to get a team score high enough to win.
-== В этой командной игре вам необходимо набрать командный счёт достаточный для победы.
+== В цій командній грі вам необхідно набрати командний рахунокьдостатніц для перемоги.
 
 Capture the opposing team's base and hold the flag.
-== Захватывайте базу противоположной команды и удерживайте флаг.
+== Завойовуйте базу протилежної команди й утримуйте  прапор.
 
 Bomb.
 == Бомба.
 
 If you have a flag, you have a bomb attached to you.
-== Если у вас есть флаг, то на вас закреплена бомба.
+== Якщо у вас є прапор, то на вас закріплена бомба.
 
 It will explode if you do not pass it to another player in the allotted time.
-== Она взорвётся если не передать её другому игроку за отведённое время.
+== Вона зірветься якщо не передати її іншому гравцеві за відведений час.
 
 If you don't have a flag, you have to run away from the player with the flag.
-== Если у вас нет флага, вам нужно убегать от игрока с флагом.
+== Якщо у вас немає прапора, вам потрібно тікати від гравця з прапором.
 
 The laser should help you cross the obstacles faster.
-== Лазер должен помочь вам быстрее пересекать преграды.
+== Лазер має допомогти вам скоріше перетинати перешкоди.
 
 In this casino you have the opportunity to test your intuition and increase your money or, on the contrary, lose all your funds.
-== В этом казино у вас есть возможность проверить свою интуицию и увеличить свои деньги или, наоборот, потерять все свои средства.
+== В цьому казино у вас є можливість перевірити свою інтуїцію і збільшити свої гроші або, навпаки, втратити усі свої кошти.
 
 To place a bet, write the command /bet <amount>, then select the desired bet type and left click with hammer on the bet type button.
-== Чтобы сделать ставку, напишите команду /bet <сумма>, затем выберите желаемый тип ставки и щелкните левой кнопкой мыши на кнопку типа ставки.
+== Щоб сделать ставку, напишите команду /bet <сумма>, затем выберите желаемый тип ставки и щелкните левой кнопкой мыши на кнопку типа ставки.
 
 Betting 1-12, 13-24, 24-36 gives x3 if you win (returns your bet and two more on top), at 0 gives x36, odd/red/black/even gives x2.
 == Ставка 1-12, 13-24, 24-36 даёт x3 при победе (возвращает вашу ставку и ещё две сверху), на 0 даёт x36, нечётное/красное/чёрное/чётное дают x2.
