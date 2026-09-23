@@ -455,10 +455,10 @@ You should set a security pin to avoid account stealing. The pin itself has to b
 == Щоб уникнути крадіжки акаунта, необхідно встановити захисний пін-код. Сам пін-код має складатися із чотирьох цифр.
 
 This pin will be required to change your contact information or your password.
-== Этот пин будет необходим для изменения контактной информации или пароля.
+== Цей пін буде необхідний для змінення контактної інформації або пароля.
 
 If your account is not secured yet, you can set a pin with '/pin <new-pin>'.
-== Если ваш аккаунт еще не защищен, вы можете установить пин-код с помощью команды '/pin <новый-пин>'.
+== Якщо ваш акаунт ще не захищений, ви можете встановити пин-код с помощью команды '/pin <новый-пин>'.
 
 If you want to change your pin, you first need to verify using '/pin <account-pin>'.
 == Если вы хотите изменить свой пин-код, сначала необходимо пройти верификацию с помощью команды '/pin <текущий-пин>'.
