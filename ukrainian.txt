@@ -446,13 +446,13 @@ Wrong login length, allowed {}-{} symbols.
 == Неправильна довжина логіна, дозволено {}-{} символів.
 
 Wrong password length, allowed {}-{} symbols.
-== Неправильная длинна пароля, разрешено {}-{} символов.
+== Неправильна довжина паролю, дозволено {}-{} символів.
 
 >>> SECURITY PIN <<<
-== >>> ПИН КОД БЕЗОПАСНОСТИ <<<
+== >>> ПІН-КОД БЕЗПЕКИ <<<
 
 You should set a security pin to avoid account stealing. The pin itself has to be a 4-digit long number code.
-== Чтобы избежать кражи аккаунта, необходимо установить защитный пин-код. Сам пин-код должен состоять из четырех цифр.
+== Щоб уникнути крадіжки акаунта, необхідно встановити захисний пін-код. Сам пін-код має складатися із чотирьох цифр.
 
 This pin will be required to change your contact information or your password.
 == Этот пин будет необходим для изменения контактной информации или пароля.
