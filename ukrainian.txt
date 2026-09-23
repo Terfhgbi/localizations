@@ -709,4 +709,845 @@ You can deposit and withdraw money from your account, use the commands '/deposit
 You can also transfer money to another player, use '/pay <amount> <name>'.
 == Вы также можете перевести деньги другому игроку, используя команду '/pay <сумма> <имя>'.
 
-W
+Wrong room number. We changed room numbers, check shop to get actual.
+== Неправильный номер комнаты. Мы поменяли номера комнат, проверьте в магазине актуальные номера.
+
+You loaded from saved state.
+== Вы загрузились из сохраненного состояния.
+
+Can't start game.
+== Невозможно начать игру.
+
+You can't exit from this game.
+== Вы не можете выйти из этого типа игры.
+
+Game id '{}' is not mapped with game.
+== Идентификатор игры '{}' не сопоставлен с игрой.
+
+{} stopped.
+== {} остановлено.
+
+You can't join while you're carrying the flag.
+== Вы не можете присоединиться, пока несете флаг.
+
+You can't do that while you're in the jail.
+== Вы не можете это сделать пока находитесь в тюрьме.
+
+Wrong game ID.
+== Неправильный тип игры.
+
+{} is not started.
+== {} не запущен.
+
+Can't join with dummy!
+== Невозможно присоединиться с дамми!
+
+Kill Protection enabled. Use /exit to leave game.
+== Включена защита от респауна. Используйте /exit, чтобы покинуть игру.
+
+King of Hill already started, wait until the end.
+== Игра King of Hill уже началась, дождитесь окончания.
+
+'{-}' is the King and received {}$!
+== '{-}' - Король в этой зоне и получил {}$!
+
+Room is available in shop.
+== Комната доступна в магазине.
+
+You are not room member.
+== Вы не являетесь участником комнаты.
+
+You are not room editor.
+== Вы не являетесь редактором комнаты.
+
+Spawn disabled.
+== Спаун отключен.
+
+Spawn enabled.
+== Спаун включен.
+
+You can't invite yourself.
+== Вы не можете пригласить себя.
+
+Player already is room member.
+== Игрок уже является участником комнаты.
+
+Only owners can do that.
+== Только владельцы могут это сделать.
+
+Not allowed to do that with room owner.
+== Владельцы комнаты не могут быть ограничены в правах.
+
+Player is not a room member.
+== Игрок не является участником комнаты.
+
+Member added to room {}.
+== Участник добавлен в комнату {}.
+
+You were added to room {}.
+== Вы были добавлены в комнату {}.
+
+You removed member from room {}.
+== Вы удалили участника из комнаты {}.
+
+You were removed from members of room {}.
+== Вы были удалены из участников комнаты {}.
+
+Room {}, members: {}, owner: '{-}', until {}
+== Комната {}, участники: {}, владелец: '{-}', до {}
+
+You need to set your player's clan first.
+== Для начала вам необходимо указать клан у вашего игрока.
+
+New tag could not be empty.
+== Новый тег не может быть пустым.
+
+Clan invitation for '{-}' is expired.
+== Приглашение в клан для '{-}' истекло.
+
+Clan '{-}' invitation is expired.
+== Приглашение в клан '{-}' истекло.
+
+Invitation to clan '{-}' from '{-}'.
+== Приглашение в клан '{-}' от '{-}'.
+
+Type '/clan_accept <tag>' to accept.
+== Напишите '/clan_accept <тег>' чтобы принять.
+
+Login in or create account to get full game experience.
+== Авторизуйтесь или создайте аккаунт для сохранения игрового прогресса.
+
+Lv
+== Ур
+
+Exp
+== Опыт
+
+You have been moved to jail for {} seconds. ({})
+== Вы посажены в тюрьму на {} секунд. ({})
+
+Already in quest!
+== Уже в квесте!
+
+There is no quest for your level.
+== Для вашего уровня нет квестов.
+
+You can't do it in this game.
+== Вы не можете это сделать в этой игре.
+
+You are not in the team 0.
+== Вы не в нулевой команде.
+
+Target is not in the team 0.
+== Получатель не в нулевой команде.
+
+You can't enter level quest while you're carrying the flag.
+== Вы не можете перейти в квест пока несёте флаг.
+
+Quest passed!
+== Квест пройден!
+
+Quest failed!
+== Квест провален!
+
+You need to be in drawer mode.
+== Вам необходимо быть в режиме рисования.
+
+Saving your drawing...
+== Сохраняю ваш рисунок...
+
+Loading your drawing...
+== Загружаю ваш рисунок...
+
+Can't load drawing!
+== Не получилось загрузить рисунок!
+
+Your drawing loaded!
+== Ваш рисунок загружен!
+
+King of Hill circle radius decreased!
+== King of Hill радиус круга уменьшен!
+
+King of Hill closed. Nobody won.
+== Игра King of Hill закончена. Нет победителей.
+
+King of Hill ({} contestants) {}1
+== King of Hill ({} участников) {}1
+
+King of Hill ({}/{} points [{}%])
+== King of Hill ({}/{} очков [{}%])
+
+You removed member edit permission from room {}.
+== Вы забрали права на редактирования у участника комнаты {}.
+
+You were removed from editors of room {}.
+== Вы были удалены из редакторов комнаты {}.
+
+{}. Room: {}, until: {}, price: {}$, seller: {-}
+== {}. Комната: {}, до: {}, цена: {}$, продавец: {-}
+
+Lot not found.
+== Лот не найден.
+
+Lot canceled.
+== Лот отменён.
+
+Lot already exists.
+== Лот уже существует.
+
+Only seller could cancel lot.
+== Только продавец может отменить лот.
+
+Transaction failed.
+== Транзакция не выполнена.
+
+Lot purchased, bank balance: {} (-{})
+== Лот куплен, остаток в банке: {} (-{})
+
+There is no active lots.
+== Нет активных лотов.
+
+Use '/room_spawn {}' to toggle spawn in room.
+== Используйте '/room_spawn {}' для переключения респауна в комнате.
+
+Use '/room_edit {}' to toggle room item edit mode.
+== Используйте '/room_edit {}' для переключения редактирования предметов в комнате.
+
+Use '/room_invite {} <name>' to invite member.
+== Используйте '/room_invite {} <имя>' для приглашения участников.
+
+You can't buy self lot.
+== Вы не можете купить свой же лот.
+
+Lot sold, bank balance: {} (+{})
+== Лот продан, остаток в банке: {} (+{})
+
+Another player purchase processing, try later.
+== Обработка транзакции другого игрока, попробуйте позже.
+
+You give member editor permission for room {}.
+== Вы дали участнику разрешение на редактирование в комнате {}.
+
+You got editor permission for room {}.
+== Вы получили разрешение на редактирование в комнате {}.
+
+Scroll: choose item
+== Скролл: смена предмета
+
+LMB: place item
+== ЛКМ: поставить предмет
+
+RMB: remove item
+== ПКМ: удалить предмет
+
+F3: prev option
+== F3: предыдущая опция
+
+F4: next option
+== F4: следующая опция
+
+S: switch mode
+== S: смена режима
+
+Rotation
+== Вращение
+
+Color
+== Цвет
+
+Thickness
+== Толщина
+
+Centered
+== Центровка
+
+Rotation angle
+== Угол вращения
+
+Heart
+== Сердце
+
+Shield
+== Броня
+
+Key
+== Ключ
+
+Door
+== Дверь
+
+Speedup
+== Ускоритель
+
+Brush
+== Кисть
+
+items
+== предметов
+
+Can't find account.
+== Аккаунт не найден.
+
+Not enough cash on account.
+== Недостаточно денег на счету.
+
+Login already exists.
+== Такой логин уже существует.
+
+You can't register more accounts, limit reached.
+== Вы не можете регистрировать больше аккаунтов, превышен лимит.
+
+You successfully registered. Login now with '/login <login> <pw>'.
+== Вы зарегистрированы. Авторизуйтесь командой '/login <логин> <пароль>'
+
+Wrong login and/or password. Please check it and try again.
+== Неправильный логин и/или пароль. Пожалуйста проверьте их и попробуйте снова.
+
+Account blocked.
+== Аккаунт заблокирован.
+
+Password successfully changed.
+== Пароль успешно изменён.
+
+Pin code successfully changed.
+== Пин код успешно изменён.
+
+Old pin code is wrong.
+== Старый пин код введён неверно.
+
+Contact successfully changed.
+== Контакт успешно изменён.
+
+Wrong old password.
+== Старый пароль введён неверно.
+
+Role successfully changed.
+== Роль успешно изменена.
+
+Too many members in room.
+== Слишком много участников в комнате.
+
+'{-}' scored for red team!
+== '{-}' увеличил счёт красной команды!
+
+'{-}' scored for blue team!
+== '{-}' увеличил счёт синей команды!
+
+Football
+== Футбол
+
+In this game you need to get the ball into the opposing team's goal.
+== В этой игре вам нужно чтобы мяч залетел в ворота противоположной команды.
+
+Not enough players to start event.
+== Недостаточно игроков для начала события.
+
+You are not allowed to participate in event.
+== Вам не разрешено принимать участие в событии.
+
+Duels not allowed in this zone.
+== Дуэли не разрешены в этой зоне.
+
+Hook weapon
+== Хук оружий
+
+Duels allowed in this zone.
+== Дуэли разрешены в этой зоне.
+
+Duels forbidden in this zone.
+== Дуэли запрещены в этой зоне
+
+In this game, you need to withdraw your money before the 'Crash' happens.
+== В этой игре вам необходимо вывести деньги раньше чем произойдёт 'Crash'.
+
+To start the game you need to bet '/bet <amount> <coefficient>' during betting.
+== Для начала игры вам необходимо сделать ставку '/bet <amount> <coefficient>' во время внесения ставок.
+
+You don't have to enter a coefficient, but if you do, the money will be withdrawn when the specified coefficient is reached. Be careful with this coefficient!
+== Коэффициент не обязательно вводить, но если вы его укажете то деньги будут выведены при достижении указанного коэффициента. Будте аккуратны с выставлением этого коэффициента!
+
+Coefficient should be not less then {~.2}!
+== Коэффициент должен быть не меньше чем {~.2}!
+
+Wait until your current bet will be finished!
+== Подождите пока ваша текущая ставка будет завершена!
+
+Wait until event finished!
+== Подождите окончания эвента!
+
+Clan '{-}' reached new level {}!
+== Клан '{-}' достиг уровня {}!
+
+Donor
+== Донор
+
+Hats
+== Шляпы
+
+Trails
+== Следы
+
+Guns
+== Пистолеты
+
+Avatars
+== Аватары
+
+Rooms
+== Комнаты
+
+Map design
+== Дизайн карты
+
+Design not found, use '/design' to check available.
+== Дизайн не найден, используй '/design' чтобы вывести список.
+
+Spawn point set.
+== Точка возрождения установлена.
+
+Auto login into account on join
+== Авто логин в аккаунт при входе
+
+Options
+== Опции
+
+Passive mode activated for {} seconds.
+== Пассивный режим активирован на {} секунд.
+
+Passive mode reset.
+== Пассивный режим сброшен.
+
+Your clan is not registered.
+== Ваш клан не зарегистрирован.
+
+Register Clan
+== Зарегистрировать клан
+
+Print Members
+== Показать участников
+
+Invite Members
+== Пригласить участников
+
+Kick Members
+== Выгнать участников
+
+Set role
+== Установить роль
+
+Delete Clan
+== Удалить клан
+
+Leave Clan
+== Выйти из клана
+
+Rename Clan
+== Переименовать клан
+
+You are not a clan member.
+== Вы не состоите в этом клане.
+
+Role
+== Роль
+
+Owner
+== Владелец
+
+Moderator
+== Модератор
+
+Member
+== Участник
+
+Clan Tag
+== Клан Тег
+
+Use reason to set command <parameter>
+== В причине <параметр>
+
+Transfer Ownership
+== Передать право владения
+
+Wrong role name, available: [member|moder|owner].
+== Неправильное название роли, существуют: [member|moder|owner].
+
+Wallet disabled.
+== Кошелёк отключен.
+
+You need to reach {} level to create clan.
+== Вам нужно достигнуть {} уровня чтобы создать клан.
+
+You need to reach {} level to pass.
+== Вам нужно достигнуть {} уровня чтобы пройти.
+
+Vip indicator
+== Вип индикатор
+
+Designs disabled.
+== Дизайны выключены.
+
+Hunters
+== Охотники
+
+Cooldown
+== Кулдаун
+
+Invisible
+== Невидимость
+
+Time left
+== Осталось времени
+
+Hunter time left
+== Время охотника
+
+Bombs
+== Бомб
+
+Coefficient
+== Коэффициент
+
+Crash
+== Краш
+
+Waiting players to continue..
+== Ждём игроков чтобы продолжить..
+
+is starting
+== начинается
+
+Not allowed to logout in duel.
+== Выход из аккаунта в дуэли не разрешён.
+
+'{}' arena id updated: {} ({})
+== Айди арены '{}' обновлён: {} ({})
+
+Duel arena id: {} ({})
+== Айди арены для дуэли: {} ({})
+
+Available arenas: {}
+== Доступные арены: {}
+
+Move please to remove afk state.
+== Сдвиньтесь с места, чтобы выйти из AFK.
+
+Score for '{-}'!
+== Счёт увеличен '{-}'!
+
+Draw.
+== Ничья.
+
+Duel request with '{-}' was canceled.
+== Запрос на дуэль с '{-}' был отменен.
+
+Duel request was canceled.
+== Запрос на дуэль был отменен.
+
+'{-}' canceled duel request.
+== '{-}' отменил запрос дуэли.
+
+There is no pending duel request.
+== Нет запросов дуэли.
+
+All duel requests ignore: {}.
+== Игнорирование всех запросов дуэлей: {}.
+
+Enabled
+== Включено
+
+Disabled
+== Выключено
+
+Rating duel search stopped.
+== Поиск рейтинговой дуэли остановлен.
+
+Rating duel search started.
+== Начат поиск рейтинговой дуэли.
+
+Always rating duel search
+== Постоянный поиск рейтинговой дуэли
+
+Rating duel found. Creating match.
+== Рейтинговая дуэль найдена. Создаём матч.
+
+Rating: {} ({}{})
+== Рейтинг: {} ({}{})
+
+Rating
+== Рейтинг
+
+Calibrating
+== Калибровка
+
+Rating calibrating ({}/{}) games played.
+== Калибровка рейтинга ({}/{}) игр сыграно.
+
+Games
+== Игр
+
+Search available only in zero team.
+== Поиск доступен только в нулевой команде.
+
+Search available only if not participate in duel and no outgoing duel requests sent.
+== Поиск доступен только вне в дуэли и нет отправленных исходящих запросов дуэли.
+
+Search rating duel will not be cancelled once the duel is over.
+== Поиск рейтинговой дуэли не будет отменён после завершения дуэли.
+
+Search rating duel will be cancelled once the duel is over.
+== Поиск рейтинговой дуэли будет отменён после завершения дуэли.
+
+Search available only from main player.
+== Поиск доступен только с основного игрока.
+
+{} starts in {} seconds.
+== {} начнётся через {} секунд.
+
+Searching rating duel
+== Поиск рейтинговой дуэли
+
+Search Time
+== Время поиска
+
+Rating Duel
+== Рейтинговая дуэль
+
+In search
+== В поиске
+
+Bronze
+== Бронза
+
+Silver
+== Серебро
+
+Gold
+== Золото
+
+Platinum
+== Платина
+
+Legend
+== Легенда
+
+Mythical
+== Мифический
+
+Divine
+== Божество
+
+You have the opportunity to play a ranked duel with a suitable opponent as he has been on the lookout for too long.
+== У Вас есть возможность сыграть рейтинговую дуэль с подходящим противником, так как он слишком долго находится в поиске.
+
+Type '/accept rating' to play.
+== Пропишите '/accept rating' чтобы принять.
+
+Since you've been on the lookout for too long, a request to compete with a suitable player has been sent.
+== Так как вы слишком долго находитесь в поиске, был отправлен запрос на соперничество подходящему игроку.
+
+Arena {} removed from blacklist.
+== Арена {} удалена из чёрного списка.
+
+Arena {} added to blacklist.
+== Арена {} добавлена в чёрный список.
+
+Too many arenas in blacklist already, remove any to add new one. Blacklist: {}
+== Слишком много арен в чёрном списке, удалите любую чтобы добавить новую. Чёрный список: {}
+
+Disable Search
+== Выключить поиск
+
+Enable Search
+== Включить поиск
+
+Add arena to blacklist:
+== Добавить арену в чёрный список:
+
+Use dashes
+== Использовать дэши
+
+Opponent duel skin
+== Скин противника в дуэлях
+
+DND
+== Не беспокоить
+
+Network mode
+== Сетевой режим
+
+Server preference: Responsive
+== Политика сервера: Отзывчивый
+
+Server preference: Balanced
+== Политика сервера: Сбалансированный
+
+Balanced
+== Сбалансированный
+
+Responsive
+== Отзывчивый
+
+Exited rating duel
+== Выход из рейтинговой дуэли
+
+Rating duel request is expired.
+== Запрос на рейтинговую дуэль истёк.
+
+Ranks information:
+== Информация о ранках:
+
+Not allowed.
+== Hе разрешено.
+
+Choose donor name prefix:
+== Выберите донор префикс:
+
+Choose vip name prefix:
+== Выберите вип префикс:
+
+You are not a VIP.
+== Вы не VIP.
+
+You are not the Donor.
+== Вы не донор.
+
+Contact admin for more information.
+== Свяжитесь с админом для информации.
+
+Weekend Boost
+== Буст выходных
+
+Vip Boost
+== Вип буст
+
+Discount
+== Скидка
+
+\[{}] The {} won with score {} - {}!
+== [{}] {} выиграла со счётом {} - {}!
+
+Cosmetic
+== Косметика
+
+VIP items:
+== VIP предметы:
+
+Donor items:
+== Донор предметы:
+
+Freeze players from the opposing team and throw them into the scoring area.
+== Замораживайте игроков из противоположной команды и закидывайте в зону получения очков.
+
+Can't report youself.
+== Нельзя подать репорт на самого себя.
+
+Reports are disabled on the server.
+== Репорты выключены на сервере.
+
+Report to '{-}' sent. Message: {-}
+== Репорт на '{-}' был отправлен. Сообщение: {-}
+
+Your report to '{-}' has been {}.
+== Ваш репорт на '{-}' был {}.
+
+accepted
+== принят
+
+rejected
+== отклонён
+
+You are banned from reports system for the next {} seconds.
+== Вы заблокированы в системе репортов в течение следующих {} секунд.
+
+You have been unbanned from report system.
+== Вы были разблокированы в системе репортов.
+
+You have been unbanned from report system early by moderator.
+== Вы были разблокированы в системе репортов досрочно.
+
+You have been banned in report system for {} seconds. ({})
+== Вы заблокированы в системе репортов на {} секунд. ({})
+
+Please try later.
+== Пожалуйста попробуйте позже.
+
+Only loggined tournament participant allowed on server
+== Только залогиненные участники торнамента могут находится на сервере
+
+Login in account or ban ({} s) in {} seconds
+== Войдите в аккаунт или бан ({} с) через {} секунд
+
+Your account approved for tournament.
+== Ваш аккаунт подтверждён для участия в турнире.
+
+Day: {}
+== День: {}
+
+Daily reward already received!
+== Ежедневная награда уже получена!
+
+Rating reward already received!
+== Рейтиновая награда уже получена!
+
+You have completed the daily quests (Day {}) and are receiving your reward!
+== Вы завершили ежедневные задания (День {}) и получаете награду!
+
+Reward tasks:
+== Задания:
+
+King of Hill opened!
+== King of Hill открыт!
+
+Until next level:
+== До следующего уровня
+
+There is no tasks for next level
+== Нет задач для вашего уровня
+
+Level: {}
+== Уровень: {}
+
+Get rating reward:
+== Получить рейтинговую награду:
+
+Rating reward in
+== Рейтинговая награда через
+
+Level frags
+== Фраги уровня
+
+Rating is disabled on server.
+== Рейтинг отключен на сервере.
+
+Reward for participation: {}$, {} frags
+== Награда за участие: {}$, {} frags
+
+You have been unmuted after your mute duration ended. Don't break the rules again!
+== Вы были размучены по окончании срока. Не нарушайте правила снова!
+
+You have been unmuted early by the moderator. Enjoy your chat, and please avoid any more violations.
+== Вы были размучены досрочно. Наслаждайтесь общением!
+
+Cycle between level and rating
+== Переключать между уровнем и рейтингом
+
+Show as score in scoreboard:
+== Показывать в качестве счёта в табе:
+
+You can't do that.
+== Вы не можете сделать этого.
+
+The duel jail reward has been reset. You can't jail your dummy.
+== Награда в виде тюрьмы была сброшена. Вы не можете посадить в тюрьму своего дамми.
+
+The rating calibrating has ended. You got the {} Rank.
+== Рейтинговая калибровка была окончена. Вы получили ранг {}.
+
+Congratulations! '{-}' has achieved the {} Rank.
+== Поздравляем! '{-}' достиг ранга {}.
+
+'{-}' ended his calibration and got the {} Rank.
+== '{-}' закончил калибровку и получил ранг {}.
+
+Rating: {}
+== Рейтинг: {}
