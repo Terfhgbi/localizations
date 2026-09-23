@@ -179,25 +179,25 @@ Please specify correct amount in vote reason.
 == Вкажіть коректну суму в причині голосування.
 
 Use value in vote reason
-== Вкажите суму в причині
+== Вкажіть суму в причині
 
 Leave reason blank to put all in (deposit only)
 == Порожня щоб покласти все
 
 Click tab to hide
-== Нажміть таб щоб сховати
+== Натисніть таб щоб сховати
 
 Arena.
 == Арена.
 
 Here you need to be the last one left alive in the arena.
-== Тут вам необхідно останнім залишиться живим на арені.
+== Тут вам необхідно останнім залишитися живим на арені.
 
 The last player left in the arena gets a nice reward.
 == Останній гравець який залишився на арені отримує добру нагороду.
 
 In this team game, you need to get a team score high enough to win.
-== В цій командній грі вам необхідно набрати командний рахунокьдостатніц для перемоги.
+== В цій командній грі вам необхідно набрати командний рахунок достатній для перемоги.
 
 Capture the opposing team's base and hold the flag.
 == Завойовуйте базу протилежної команди й утримуйте  прапор.
@@ -245,16 +245,16 @@ Climbing.
 == Скалолазіння.
 
 In this mode you can slide on walls. Press the button to move towards the wall.
-== В цьому режимі у вас є можливість ковзати по стінам. Натискайте кнопку руху до стіни для цього.
+== В цьому режимі у вас є можливість ковзати по стінам. Натисніть кнопку руху до стіни для цього.
 
 Once you get to the top you will be able to enter a special room.
-== Діставшись до самого верху ви зможете пройти в спеціальну кімнату.
+== Діставшись самого верху ви зможете пройти у спеціальну кімнату.
 
 Hide and seek.
 == Хованки.
 
 If you have a flag, you must catch up and hit all players with the hammer. The gun will help you to know the direction.
-== Якщо у вас є прапор, то ви маєте наздогнати й вдарити молотком всіх гравців. Пічтодет допоможе вам дізнатись напрямок.
+== Якщо у вас є прапор, то ви маєте наздогнати й вдарити молотком всіх гравців. Пістолет допоможе вам дізнатись напрямок.
 
 If you don't have a flag, you have to hide from the player with the flag. You are not visible in grey areas until you are approached closely.
 == Якщо у вас немає прапора, вам треба ховатися від гравця з прапором. Вас не видно в сірих зонах до тих пір, поки до вас не підійдуть впритул.
@@ -386,64 +386,64 @@ Bank disabled.
 == Банк вимкнен.
 
 You need to be logged in your account.
-== Вам необходимо авторизоваться в ваш аккаунт.
+== Вам необхідно авторизуватися в свій акаунт.
 
 Your character should be alive!
-== Ваш персонаж должен быть жив!
+== Ваш персонаж має бути живим!
 
 Target character should be alive!
-== Персонаж получателя должен быть жив!
+== Персонаж одержувача має бути живим!
 
 There is no bank near you!
-== Рядом с вами нет банка!
+== Поруч з вами немає банка!
 
 You have no money on your account!
-== На вашем аккаунте нет денег!
+== На вашому акаунті немає грошей!
 
 You have only {}$ on your account. This amount will be withdrawn to your wallet.
-== У вас есть только {}$ на аккаунте. Эта сумма будет выдана вам в кошелёк.
+== У вас є лише {}$ на акаунті. Ця сума буде видана вам в гаманець.
 
 Your wallet is empty!
-== Ваш кошелёк пуст!
+== Ваш гаманець порожній!
 
 You have only {}$ in your wallet. This amount will be deposited into your account.
-== У вас есть только {}$ в кошельке. Эта сумма будет положена на счёт вашего аккаунта.
+== У вас є лише {}$ в гаманці. Ця сума буде покладена на рахунок вашого акаунта.
 
 This player is not logged in.
-== Этот игрок не авторизован.
+== Цей гравець не авторизован.
 
 Withdraw succeed, bank balance: {} (-{})
-== Вывод успешен, остаток в банке: {} (-{})
+== Виведення успішне, залишок в банку: {} (-{})
 
 Cash transferred, bank balance: {} (-{})
-== Деньги переведены, остаток в банке: {} (-{})
+== Гроші переведені, залишок в банку: {} (-{})
 
 Cash received, bank balance: {} (+{})
-== Деньги получены, остаток в банке: {} (+{})
+== Гроші отримані, залишок в банку: {} (+{})
 
 Not verified. Use '/pin <pin>' to verify yourself.
-== Не подтверждён. Используйте '/pin <пин>' чтобы подтвердить себя.
+== Не підтверджений. Використовуйте '/pin <пин>' щоб підтвердити себе.
 
 You have been banned from the account system for {} seconds ({})
-== Вы заблокированы в системе аккаунтов на {} секунд ({})
+== Ви заблоковані в системі аккаунтів на {} секунд ({})
 
 Too many pin fails
-== Слишком много попыток ввода пин кода
+== Занадто багато спроб введення ПІН-кода
 
 Already logged in, if you want change account write '/logout' first.
-== Уже авторизован. Если вы хотите сменить аккаунт напишите сначала '/logout'.
+== Вже авторизован. Якщо ви хочете змінити акаунт напишіть спочатку '/logout'.
 
 Account already in use.
-== Аккаунт уже используется.
+== Акаунт вже використовується.
 
 Not authorized!
 == Не авторизован!
 
 Successfully logout.
-== Вы успешно вышли из аккаунта.
+== Ви успішно вийшли з акаунту.
 
 Wrong login length, allowed {}-{} symbols.
-== Неправильная длинна логина, разрешено {}-{} символов.
+== Неправильна довжина логіна, дозволено {}-{} символів.
 
 Wrong password length, allowed {}-{} symbols.
 == Неправильная длинна пароля, разрешено {}-{} символов.
