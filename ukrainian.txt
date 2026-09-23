@@ -1551,3 +1551,450 @@ Congratulations! '{-}' has achieved the {} Rank.
 
 Rating: {}
 == Рейтинг: {}
+
+Winrate: {}/{} ({~.2}%)
+== Процент побед: {}/{} ({~.2}%)
+
+Your discord link code is {-}. It lasts for {} {t}.
+== Ваш код привязки дискорда - {-}. Он длится {} {t}.
+
+Natural physic prediction
+== Естественное предсказывание физики
+
+Kill Protection enabled. Press the kill button {} {} if you are sure.
+== Включена защита от респауна. Нажмите на кнопку килла еще {} {}, если вы уверены.
+
+more time
+== раз
+
+more times
+== раза
+
+linked
+== привязан
+
+press to link
+== нажмите для привязки
+
+You have already linked your discord account. Contact admins if you want to change.
+== Вы уже привязали свой дискорд аккаунт. Свяжитесь с администрацией, если хотите изменить его.
+
+Get an account with '/register <name> <pw>'.
+== Создайте аккаунт: '/register <имя> <пароль>'.
+
+Staff
+== Стафф
+
+Choose staff name prefix:
+== Выбрать префикс стаффа:
+
+Staff items:
+== Стафф предметы:
+
+Media
+== Медиа
+
+Choose media name prefix:
+== Выбрать префикс медиа:
+
+Media items:
+== Медиа предметы:
+
+'{-}' was transferred to '{}'
+== '{-}' отправился на '{}'
+
+'{-}' has left the game ({-})
+== '{-}' покинул игру ({-})
+
+'{-}' has left the game
+== '{-}' покинул игру
+
+Level Up! Current level: {}
+== Повышение уровня! Текущий уровень: {}
+
+'{-}' entered and joined the {}
+== '{-}' зашел и присоединился к {}
+
+game
+== игре
+
+spectators
+== наблюдателям
+
+'{-}' has been muted for {-} seconds ({-})
+== '{-}' был замучен на {-} секунд ({-})
+
+'{-}' has been muted for {-} seconds
+== '{-}' был замучен на {-} секунд
+
+Not enough amount for drop {}/{}.
+== Недостаточное количество для выброса {}/{}.
+
+Minimal drop amount is {}.
+== Минимальное количество для выброса {}.
+
+Duel found. Creating match.
+== Дуэль найдена. Создаём матч.
+
+Duels are disabled on server.
+== Дуэли выключены на сервере.
+
+You can't search for duel while rating search is active.
+== Вы не можете искать дуэль, пока активен поиск рейтинговой дуэли.
+
+Duel search started.
+== Поиск дуэли начат.
+
+Duel search stopped.
+== Поиск дуэли остановлен.
+
+Searching duel
+== Поиск дуэли
+
+You can't search for rating duel while duel search is active.
+== Вы не можете искать рейтинговую дуэль, пока поиск дуэли активен.
+
+'{-}' is on a fury with {} kills! A bounty is now on his head!
+== '{-}' в неистовой ярости с {} убийствами подряд! Теперь на его голове награда!
+
+'{-}' is causing chaos with {} kills! Take his head for a bounty!
+== '{-}' творит хаос, на его счету {} убийств подряд! Теперь за его голову назначена награда!
+
+Attention! '{-}' is on bursting killing spree of {} kills, and now there is a bounty on his head!
+== Внимание! '{-}' на взрывной буре из {} убийств подряд! Теперь на его голове лежит награда в виде денег!
+
+'{-}' took down '{-}' and claimed a reward of {}$! Bounty Hunt is over!
+== '{-}' убил '{-}' и забрал награду в {}$! Охота за головами завершена!
+
+'{-}' eliminated '{-}' and earned {}$! Bounty Hunt is over!
+== '{-}' ликвидировал '{-}' и заработал {}$! Охота за головами завершена!
+
+'{-}' slayed the target '{-}' and got away with {}$! Bounty Hunt is over!
+== '{-}' убил цель '{-}' и забрал {}$! Охота за головами окончена!
+
+Nobody could manage to kill '{-}' in time! Bounty Hunt is over!
+== Никто не смог убить '{-}' за отведенное время! Охота за головами окончена!
+
+Rules
+== Правила
+
+'{-}' has ran away! Bounty Hunt is over!
+== '{-}' сбежал! Охота за головами окончена!
+
+'{-}' was frightened by '{-}' and dropped {}$! The Bounty Hunt is over!
+== '{-}' был напуган '{-}' и обронил {}$! Охота за головами окончена!
+
+'{-}' was frozen to the bones by '{-}' and dropped {}$! The Bounty Hunt is over!
+== '{-}' был заморожен до костей '{-}' и обронил {}$! Охота за головами окончена!
+
+Block Spree
+== Блок серия
+
+Can't transfer cash while jailed.
+== Нельзя передавать деньги, пока вы находитесь в джайле.
+
+Can't transfer cash to jailed player.
+== Нельзя передавать деньги заключенным.
+
+You need to reach {} level to start rating search.
+== Вам необходимо достичь {} уровня, чтобы начать поиск рейтинговой дуэли.
+
+There is an incoming report from {-} to {-}. Check the discord.
+== Появился новый репорт от {-} на {-}. Проверьте дискорд.
+
+Always duel search
+== Постоянный поиск дуэли
+
+Portals forbidden in this zone.
+== Порталы запрещены в этой зоне.
+
+Portals allowed in this zone.
+== Порталы разрешены в этой зоне.
+
+You have added {-} to duel ignore list.
+== Вы добавили {-} в список игнорирования дуэлей.
+
+You have removed {-} from duel ignore list.
+== Вы убрали {-} из список игнорирования дуэлей.
+
+You can't add yourself to duel ignore list.
+== Вы не можете добавить себя в список игнорирования дуэлей.
+
+You can't use chat right now. Please wait.
+== Вы не можете использовать чат сейчас. Подождите.
+
+You client is being verified or seems bad. Get official client from ddnet.org/downloads
+== Ваш клиент проходит верификацию или является подозрительным. Скачайте официальный клиент с ddnet.org/downloads
+
+players
+== игроков
+
+Progress
+== Прогресс
+
+Completed
+== Завершено
+
+Not enough level ({}/{}) to access '{}'.
+== Недостаточный уровень ({}/{}) для доступа к '{}'.
+
+'{}' access from {} level
+== '{}' доступно с {} уровня
+
+Your game doesn't have spree.
+== В вашей игре нет серий.
+
+Killing Spree
+== Серия убийств
+
+Your current {} is {}.
+== Ваша текущая {} - {}.
+
+Admin has restarted the FNG round.
+== Администратор перезапустил раунд FNG.
+
+The FNG round ended with a tie!
+== Раунд FNG закончился вничью.
+
+Most Kills
+== Больше всего убийств
+
+Best Spree
+== Лучшая серия
+
+Best Multi
+== Лучшее мульти-убийство
+
+Best K/D
+== Лучший K/D
+
+Most Freezes
+== Больше всего заморозок
+
+Most Wallshots
+== Больше всего рикошетов
+
+Best Accuracy
+== Лучшая точность
+
+You aren't in a game.
+== Вы не находитесь в какой-либо игре.
+
+You don't have statistics for game's round.
+== У вас нет статистики для раунда этой игры.
+
+Your statistics:
+== Ваша статистика:
+
+Kills
+== Убийств
+
+Freezes
+== Заморозок
+
+Wallshots
+== Попаданий рикошетом
+
+Accuracy
+== Точность
+
+Teams were balanced.
+== Команды были сбалансированы.
+
+Teams were shuffled.
+== Команды были перемешаны.
+
+You can't join a team which is close to win.
+== Нельзя присоединиться к лидирующей команде.
+
+block spree
+== блок серия
+
+killing spree
+== серия убийств
+
+Max Multi
+== Максимальное мульти-убийство
+
+Max Spree
+== Максимальная серия убийств
+
+'{-}' multi x{}!
+== '{-}' мульти-убийство x{}!
+
+'{-}' multi x{} finished!
+== '{-}' мульти-убийство x{} завершено!
+
+'{-}' is on a killing spree with {} kills!
+== '{-}' провел серию из {} убийств!
+
+'{-}' tried to steal '{-}' kill!
+== '{-}' попытался украсть убийство '{-}'!
+
+Can't change teams while frozen!
+== Нельзя сменить команду во время заморозки!
+
+You are sending reports too fast.
+== Вы отправляете репорты слишком быстро.
+
+Effects
+== Эффекты
+
+Skins
+== Скины
+
+The server is going to shutdown in {} {t} ({-})
+== Сервер будет выключен через {} {t} ({-})
+
+The server is going to shutdown in {} {t} ({})
+== Сервер будет выключен через {} {t} ({})
+
+The server is going to shutdown in {} {t}
+== Сервер будет выключен через {} {t}
+
+The map is going to reload in {} {t} ({-})
+== Карта будет перезагружена через {} {t} ({-})
+
+The map is going to reload in {} {t} ({})
+== Карта будет перезагружена через {} {t} ({})
+
+The map is going to reload in {} {t}
+== Карта будет перезагружена через {} {t}
+
+The server shutdown was cancelled.
+== Выключение сервера было отменено.
+
+The map reload was cancelled.
+== Перезагрузка карты была отменена.
+
+The server is shutting down now!
+== Сервер сейчас будет выключен!
+
+The map is reloading now!
+== Карта сейчас будет перезагружена!
+
+Language
+== Язык
+
+Settings
+== Настройки
+
+Clan
+== Клан
+
+Time
+== Время
+
+Score
+== Очки
+
+Red team
+== Красная команда
+
+Blue team
+== Синяя команда
+
+You blocked '{}', this is forbidden on server.
+== Вы заблокировали '{}', это запрещено на сервере.
+
+Laser ammo will be respawned in {} seconds.
+== Респаун патронов для лазера через {} секунд.
+
+{}. '{-}' - {} kills!
+== {}. '{-}' - {} убийств!
+
+{}. No last player alive.
+== {}. Нет последнего выжившего.
+
+\[{}] The event is over!
+== [{}] Событие завершено!
+
+You aren't logged in an account to receive a reward.
+== Вы не вошли в аккаунт для получения награды.
+
+Weapons
+== Оружия
+
+Do not disturb mode enabled, to disable write /dnd.
+== Включен режим 'Не беспокоить', для отключения напишите /dnd.
+
+Kick player
+== Выгнать игрока
+
+'{}' jailed for {} seconds for block.
+== '{}' посажен в тюрьму за блок на {} секунд.
+
+Name protection check passed ({}).
+== Проверка защиты ника пройдена ({}).
+
+Name protection check failed ({}).
+== Проверка защиты ника не пройдена ({}).
+
+Name check still in progress or name already taken by another player!
+== Проверка ника ещё в процессе или имя уже занято другим игроком!
+
+Protected name must be at least {} characters long.
+== Защищаемое имя должно содержать не менее {} символов.
+
+You already have name protection.
+== У вас уже есть защита имени.
+
+This name is already protected by another player.
+== Это имя уже защищено другим игроком.
+
+This name is tied to another player's records.
+== Это имя уже связано с рекордами другого игрока.
+
+Protected nicknames
+== Защищённые ники
+
+Name protection [{}] for '{}'
+== Защита ника [{}] для '{}'
+
+'{}' {}, {} canceled.
+== '{}' {}, {} отменена.
+
+left game
+== вышел из игры
+
+joined spectators
+== зашёл в наблюдатели
+
+logout from account
+== вышел из аккаунта
+
+respawned
+== зареспаунился
+
+moved
+== сдвинулся
+
+frozen
+== был заморожен
+
+changed team
+== сменил команду
+
+disabled duels
+== отключил дуэли
+
+Casino is disabled!
+== Казино отключено
+
+Duel request was cancelled. You've received {}{} back.
+== Запрос на дуэль был отменен. Вы получили {}{} назад.
+
+Rating duel request was canceled.
+== Запрос на рейтинговую дуэль был отменен.
+
+Team size must be at least 2. For 1v1 use a regular duel.
+== Размер команды должен быть минимум 2. Для 1 на 1 используйте обычную дуэль.
+
+Team duel
+== Командная дуэль
+
+Team duel (drafted)
+== Командная дуэль (драфт)
+
+Clan war
+== Клановая война
