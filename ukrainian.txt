@@ -458,28 +458,28 @@ This pin will be required to change your contact information or your password.
 == Цей пін буде необхідний для змінення контактної інформації або пароля.
 
 If your account is not secured yet, you can set a pin with '/pin <new-pin>'.
-== Якщо ваш акаунт ще не захищений, ви можете встановити пин-код с помощью команды '/pin <новый-пин>'.
+== Якщо ваш акаунт ще не захищений, ви можете встановити пін-код за допомогою команди '/pin <новий-пін>'.
 
 If you want to change your pin, you first need to verify using '/pin <account-pin>'.
-== Если вы хотите изменить свой пин-код, сначала необходимо пройти верификацию с помощью команды '/pin <текущий-пин>'.
+== Якщо ви хочете змінити свій пін-код, спочатку необхідно пройти верифікацію за допомогою команди '/pin <поточний-пін>'.
 
 After verifying, you can set a new pin with '/pin <new-pin>'.
-== После верификации вы можете установить новый пин с помощью команды '/pin <новый-пин>'.
+== Після верифікації ви можете встановити новий пін за допомогою команди '/pin <новий-пін>'.
 
 Pin verification succeed!
-== Пин код верификация пройдена!
+== Пін код верифікація пройдена!
 
 Pin verification failed!
-== Неверный пин код!
+== Невірний пін код!
 
 New pin has to be a 4-digit long number code. Example: 1234.
-== Новый пин-код должен состоять из 4 цифр. Пример: 1234.
+== Новий пін-код повинен складати із 4 цифр. Приклад: 1234.
 
 You need to enter a way to contact you, for example: Discord, E-Mail, Skype, etc.
-== Вам необходимо указать способ связи с вами, например: Discord, E-Mail, Skype и т.д.
+== Вам необхідно вказати спосіб зв'язку з вами, наприклад: Discord, E-Mail, Skype і т.д.
 
 To see your current contact information, use '/acc' command or 'Call vote' menu.
-== Чтобы просмотреть текущую контактную информацию, воспользуйтесь командой '/acc' или меню 'Голосования'.
+== Щоб переглянути поточну контактну інформацію, скористайтеся командою '/acc' або меню 'Голосування'.
 
 You successfully authorized in your account.
 == Вы успешно авторизовались в ваш аккаунт.
