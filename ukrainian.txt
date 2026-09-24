@@ -2997,3 +2997,504 @@ Sorry, {}, you're dead.
 
 You have not enough cash to repeat previous bet of {}$, use '/bet <amount>'
 == Недостатньо коштів для повторення попередньої ставки {}$, використовуйте '/bet <сума>'
+
+Bank is empty. Spinning is temporarily disabled.
+== Банк пуст. Вращение временно отключено.
+
+Finish your current bet before spinning the slots!
+== Завершите текущую ставку перед вращением слотов!
+
+The reels are already spinning!
+== Барабаны уже вращаются!
+
+Free Spins active but no stored bet. Place a new base bet first.
+== Бесплатные вращения активны, но нет сохранённой ставки. Сначала сделайте новую базовую ставку.
+
+Free Spins: bet is locked to {}$ until the feature ends.
+== Бесплатные вращения: ставка заблокирована на {}$ до окончания функции.
+
+Bet must be positive!
+== Ставка должна быть положительной!
+
+Not enough cash for this bet.
+== Недостаточно денег для этой ставки.
+
+(capped by feature/base cap)
+== (ограничено лимитом функции/базовым лимитом)
+
+Result: {}{}${}
+== Результат: {}{}${}
+
+Result: {}{}$ (win {}$, bet {}$){}
+== Результат: {}{}$ (выигрыш {}$, ставка {}$){}
+
+Free Spins received: {} spins!
+== Получены бесплатные вращения: {} вращений!
+
+Free Spins finished.
+== Бесплатные вращения завершены.
+
+Auto-spins finished.
+== Авто-вращения завершены.
+
+Auto-spins stopped: no saved bet.
+== Авто-вращения остановлены: нет сохранённой ставки.
+
+Auto-spins stopped.
+== Авто-вращения остановлены.
+
+Auto-spins count must be positive.
+== Количество авто-вращений должно быть положительным.
+
+Auto-spins count limited to {} spins.
+== Количество авто-вращений ограничено {} вращениями.
+
+Stand near a slot machine to start auto-spins.
+== Встаньте рядом со слот-машиной для запуска авто-вращений.
+
+Wait for the current spin to finish before starting auto-spins.
+== Дождитесь завершения текущего вращения перед запуском авто-вращений.
+
+Make a bet using /bet <amount> before starting auto-spins.
+== Сделайте ставку, используя /bet <сумма>, перед запуском авто-вращений.
+
+Auto-spins started: {} spins queued (bet {}$).
+== Авто-вращения запущены: {} вращений в очереди (ставка {}$).
+
+Auto-spins is not active.
+== Авто-вращения не активны.
+
+You have got {}{} unread mails.
+== У вас {}{} непрочитанных писем.
+
+You can read them in vote menu.
+== Вы можете прочитать их в меню голосования.
+
+You have got a new mail!
+== У вас новое письмо!
+
+Matches disabled on server.
+== Матчи отключены на сервере.
+
+Match games or team sizes not specified.
+== Игры матча или размеры команд не указаны.
+
+Ranked: search stopped.
+== Рейтинговый: поиск остановлен.
+
+Too late to accept.
+== Слишком поздно для принятия.
+
+Accepting the match...
+== Принимаем матч...
+
+You declined the match.
+== Вы отклонили матч.
+
+Match found — confirm in vote!
+== Матч найден — подтвердите в голосовании!
+
+Match failed. {} ({})
+== Матч не удался. {} ({})
+
+Match preparing: answered {}/{}.
+== Подготовка матча: ответили {}/{}.
+
+Match assembling: connected {}/{}.
+== Сборка матча: подключились {}/{}.
+
+Match is active: connected {}/{}.
+== Матч активен: подключились {}/{}.
+
+Match ended.
+== Матч завершён.
+
+You are already on match server
+== Вы уже на сервере матча
+
+You have been unmuted.
+== Вы были размучены.
+
+You have been unmuted early by moderator.
+== Вы были размучены досрочно модератором.
+
+'{-}' has been muted for {-} ({-})
+== '{-}' был замучен на {-} ({-})
+
+You have been muted for {-} ({-})
+== Вы были замучены на {-} ({-})
+
+This name is already protected.
+== Это имя уже защищено.
+
+Rating duel found. Creating match with '{-}' (Rating: {})
+== Рейтинговая дуэль найдена. Создание матча с '{-}' (Рейтинг: {})
+
+Not enough games
+== Недостаточно игр
+
+Failed to sold, room {} lot canceled.
+== Не удалось продать, лот комнаты {} отменён.
+
+You can set one of the following languages by using '/lang <option>':
+== Вы можете установить один из следующих языков, используя '/lang <опция>':
+
+Available designs: {}
+== Доступные дизайны: {}
+
+Search duel will not be cancelled once the duel is over.
+== Поиск дуэли не будет отменён после завершения дуэли.
+
+Search duel will be cancelled once the duel is over.
+== Поиск дуэли будет отменён после завершения дуэли.
+
+You have bought the item for {} {t}.
+== Вы купили предмет за {} {t}.
+
+The player level is too low to buy the item. Required level: {}.
+== Уровень игрока слишком низкий для покупки предмета. Требуемый уровень: {}.
+
+You have received the item.
+== Вы получили предмет.
+
+You successfully gave the item.
+== Вы успешно подарили предмет.
+
+You have activated the welcome bonus:
+== Вы активировали приветственный бонус:
+
+You have activated the promocode:
+== Вы активировали промокод:
+
+- +{} Lv. {}
+== - +{} Ур. {}
+
+- {} forever
+== - {} навсегда
+
+- {} for {} {t}
+== - {} на {} {t}
+
+You have got the {} role for {} {t}.
+== Вы получили роль {} на {} {t}.
+
+You have lost the {} role.
+== Вы потеряли роль {}.
+
+You should specify a number in vote reason.
+== Вы должны указать число в причине голосования.
+
+The item isn't for sale.
+== Предмет не продаётся.
+
+Can't buy 0 items.
+== Нельзя купить 0 предметов.
+
+You already have this item.
+== У вас уже есть этот предмет.
+
+The item isn't ready to buy.
+== Предмет не готов к покупке.
+
+You can't buy that many of this item.
+== Вы не можете купить столько этого предмета.
+
+The room isn't available.
+== Комната недоступна.
+
+The room isn't empty.
+== Комната не пуста.
+
+The player isn't logged in account.
+== Игрок не авторизован в аккаунте.
+
+The player already has this item.
+== У игрока уже есть этот предмет.
+
+You don't have this item.
+== У вас нет этого предмета.
+
+This item is disabled.
+== Этот предмет отключён.
+
+You have already used this item.
+== Вы уже использовали этот предмет.
+
+You can't enable this item in the current game.
+== Вы не можете включить этот предмет в текущей игре.
+
+You need to leave a vehicle to turn on an avatar.
+== Вам нужно покинуть транспорт, чтобы включить аватар.
+
+Save the drinking for warmup. Ranked is for real tees.
+== Оставьте выпивку для разминки. Рейтинг для настоящих тисов.
+
+{}. {} {}: {} (statistic for last {} days)
+== {}. {} {}: {} (статистика за последние {} дней)
+
+{}. {} {}: {} ({} : {}) (statistic for last {} days)
+== {}. {} {}: {} ({} : {}) (статистика за последние {} дней)
+
+------------- Top {} ------------
+== ------------- Топ {} ------------
+
+Vote passed
+== Голосование прошло
+
+Vote passed enforced by authorized player
+== Голосование прошло принудительно авторизованным игроком
+
+Vote failed enforced by authorized player
+== Голосование не прошло принудительно авторизованным игроком
+
+Vote aborted
+== Голосование прервано
+
+Vote failed because of veto. Find an empty server instead
+== Голосование не прошло из-за вето. Найдите пустой сервер
+
+Vote failed
+== Голосование не прошло
+
+Black hole captured
+== Чёрная дыра захвачена
+
+Black hole center around
+== Центр чёрной дыры рядом
+
+Black hole closer than ever
+== Чёрная дыра ближе, чем когда-либо
+
+Guess where you are
+== Угадайте, где вы
+
+Black hole control room
+== Комната управления чёрной дырой
+
+Black hole control you
+== Чёрная дыра контролирует вас
+
+Here we are again
+== Вот мы снова здесь
+
+Your find strange companion.
+== Вы нашли странного компаньона.
+
+You can place lasers only outside the map!
+== Вы можете размещать лазеры только за пределами карты!
+
+Intersection between positions not allowed.
+== Пересечение между позициями не разрешено.
+
+Reached lasers limit!
+== Достигнут лимит лазеров!
+
+You got random bonus: {} [{}].
+== Вы получили случайный бонус: {} [{}].
+
+Reverse mode '{}'
+== Обратный режим '{}'
+
+You destroyed {}'s turret!
+== Вы уничтожили турель {}!
+
+'{}' has destroyed your turret!
+== '{}' уничтожил вашу турель!
+
+Purchase History
+== История покупок
+
+Total Spent
+== Всего потрачено
+
+Shop Categories
+== Категории магазина
+
+Manage Clan
+== Управление кланом
+
+View Last Deposits
+== Показать последние взносы
+
+Clan Deposits
+== Взносы клана
+
+You can deposit your cash to clan using /clan_deposit
+== Вы можете внести деньги в клан командой /clan_deposit
+
+⚠️The action can't be cancelled⚠️
+== ⚠️Действие нельзя отменить⚠️
+
+Last Deposits:
+== Последние взносы:
+
+No any deposits right now.
+== Сейчас нет ни одного взноса.
+
+Rewards
+== Награды
+
+Filter
+== Фильтр
+
+Daily Quest Rewards
+== Награды за ежедневные квесты
+
+Rating Rewards
+== Награды за рейтинг
+
+Daily Join Rewards
+== Награды за ежедневный вход
+
+Days left to claim all rewards
+== Осталось дней, чтобы забрать все награды
+
+Next day reward
+== Награда за следующий день
+
+Your current day
+== Ваш текущий день
+
+There aren't any rules.
+== Правила отсутствуют.
+
+Warp to your dungeon
+== Телепорт в ваше подземелье
+
+Stand near the dungeon door to access the dungeon menu
+== Встаньте рядом с дверью подземелья
+
+Attack history
+== История атак
+
+Refresh attack history
+== Обновить историю атак
+
+No recent attackers. Refresh later
+== Недавних атак нет. Обновите позже.
+
+✔ Mark all as read
+== ✔ Отметить всё как прочитанное
+
+⬇ Receive all items
+== ⬇ Получить все предметы
+
+✘ Delete all read mails
+== ✘ Удалить все прочитанные письма
+
+\[Mails]
+== [Письма]
+
+You don't have any mails.
+== У вас нет писем.
+
+Showing the last {}/{} mails.
+== Показаны последние {}/{} писем.
+
+Delete some mails to view more.
+== Удалите часть писем, чтобы увидеть остальные.
+
+Nothing here
+== Здесь ничего нет
+
+⬇ Receive items
+== ⬇ Получить предметы
+
+✘ Delete this mail
+== ✘ Удалить это письмо
+
+Date:
+== Дата:
+
+\[Items]
+== [Предметы]
+
+Search status:
+== Статус поиска:
+
+Active
+== Активен
+
+Stopped
+== Остановлен
+
+Create search
+== Создать поиск
+
+Matches Search
+== Поиск матчей
+
+Any Game
+== Любая игра
+
+Team sizes
+== Размеры команд
+
+Any Size
+== Любой размер
+
+Sync server not connected to that game server
+== Синхронизационный-сервер не подключён
+
+Default
+== По умолчанию
+
+Games motd
+== Игровой MOTD
+
+Cosmetics
+== Косметика
+
+Any cosmetics
+== Любая косметика
+
+Rarity
+== Редкость
+
+No owner
+== Нет владельца
+
+Buy Cooldown
+== Задержка между покупками
+
+Bank: unavailable
+== Банк: недоступен
+
+Lives
+== Жизни
+
+Raid info
+== Информация о рейде
+
+Lock attempt in progress
+== Идёт попытка взлома замка
+
+Break the door
+== Взломать дверь
+
+Skip dungeon
+== Пропустить подземелье
+
+Door unlocked. Press fire to begin.
+== Дверь открыта. Нажмите огонь, чтобы начать.
+
+Exit raid
+== Выйти из рейда
+
+Exit dungeon
+== Выйти из подземелья
+
+Resources
+== Ресурсы
+
+Mine depleted
+== Шахта исчерпана
+
+Collect keys
+== Собрать ключи
+
+Collect gold
+== Собрать золото
+
+Mine
+== Шахта
