@@ -3999,3 +3999,522 @@ You must be alive to hug.
 
 You can't hug in solo mode.
 == В соло-режимі не можна обійматися.
+
+Hug is not available after race start.
+== Объятия недоступны после старта гонки.
+
+Aim at a player to hug.
+== Прицелься в игрока чтобы обняться.
+
+You need to be closer to the player to hug.
+== Нужно быть ближе к игроку чтобы обняться.
+
+You can't hug yourself.
+== Себя обнять нельзя.
+
+You need to be in the same world.
+== Нужно быть в одном мире.
+
+You need to be in the same game.
+== Нужно быть в одной игре.
+
+You need to be in the same team.
+== Нужно быть в одной команде.
+
+That player has already started the race.
+== Этот игрок уже стартовал гонку.
+
+Hug with '{-}' ended.
+== Объятие с '{-}' окончено.
+
+You already have the maximum number of hugs.
+== У тебя уже максимум объятий.
+
+'{-}' already has the maximum number of hugs.
+== У '{-}' уже максимум объятий.
+
+You hugged '{-}'.
+== Ты обнял '{-}'.
+
+Hug request sent to '{-}'.
+== Запрос на объятие отправлен '{-}'.
+
+'{-}' wants to hug you. Use /hug {-}.
+== '{-}' хочет обняться с тобой. Используй /hug {-}.
+
+Create lot
+== Создать лот
+
+My lots
+== Мои лоты
+
+In game items
+== Игровые предметы
+
+Upgrades
+== Улучшения
+
+Laser ammo
+== Патроны для лазера
+
+Offers
+== Предложения
+
+Sold per unit, collected on the map.
+== Продаётся поштучно, собирается на карте.
+
+No offers.
+== Нет предложений.
+
+No offers (or loading - Refresh).
+== Нет предложений (обновите).
+
+left
+== осталось
+
+Seller
+== Продавец
+
+Available
+== Доступно
+
+Price
+== Цена
+
+Required level
+== Необходимый уровень
+
+your level
+== ваш уровень
+
+Buy
+== Купить
+
+Buy all
+== Купить всё
+
+Buy N
+== Купить N
+
+Type amount in reason
+== Введите количество в поле причины
+
+Lot no longer available.
+== Лот больше недоступен.
+
+Lot no longer available - Refresh.
+== Лот больше недоступен — Обновить.
+
+Your lots
+== Ваши лоты
+
+Set price
+== Изменить цену
+
+Cancel
+== Отменить
+
+You have no active lots.
+== У вас нет активных лотов.
+
+Pick an item to list
+== Выберите предмет для продажи
+
+Nothing to sell.
+== Нечего продавать.
+
+You own
+== У вас есть
+
+Quantity
+== Количество
+
+(reason, blank = all)
+== (в причине; пусто — всё)
+
+(reason)
+== (в причине)
+
+Currency
+== Валюта
+
+Set a price above 0 to create the lot.
+== Укажите цену больше 0.
+
+Market
+== Рынок
+
+Enter the amount in the reason field.
+== Введите количество в поле причины.
+
+Enter a price in the reason field.
+== Введите цену в поле причины.
+
+Invalid price.
+== Недопустимая цена.
+
+Invalid currency.
+== Недопустимая валюта.
+
+Invalid price (1..{}).
+== Недопустимая цена (1..{}).
+
+Unknown item.
+== Неизвестный предмет.
+
+This item can't be sold.
+== Этот предмет нельзя продать.
+
+You don't own this item.
+== У вас нет этого предмета.
+
+You don't have any of this item.
+== У вас нет этого предмета.
+
+Invalid quantity (1..{}).
+== Недопустимое количество (1..{}).
+
+You only have {}.
+== У вас только {}.
+
+Price is too large.
+== Цена слишком большая.
+
+Not enough time left on this item to sell.
+== Слишком мало времени для продажи.
+
+You are not the owner of this room.
+== Вы не владелец этой комнаты.
+
+Your character must be alive.
+== Персонаж должен быть жив.
+
+You have no laser ammo.
+== У вас нет патронов лазера.
+
+You already have a laser-ammo lot in this currency.
+== Лот в этой валюте уже есть.
+
+You have too many active lots.
+== Слишком много активных лотов.
+
+Laser-ammo lot created.
+== Лот на патроны создан.
+
+Your character must be alive to receive ammo.
+== Нужен живой персонаж для патронов.
+
+You can't buy your own lot.
+== Нельзя купить собственный лот.
+
+Price changed - refresh.
+== Цена изменилась — обновите.
+
+Seller is not available - lot canceled.
+== Продавец недоступен — лот отменён.
+
+Lot no longer has ammo.
+== В лоте больше нет патронов.
+
+Invalid amount.
+== Недопустимое количество.
+
+Only {} available - refresh.
+== Доступно только {} — обновите.
+
+Total is too large.
+== Итоговая сумма слишком большая.
+
+Not enough {-}.
+== Недостаточно {-}.
+
+Bought {} laser ammo (-{} {-}).
+== Куплено {} патронов лазера (-{} {-}).
+
+Sold {} laser ammo (+{} {-}).
+== Продано {} патронов лазера (+{} {-}).
+
+Lot not found - refresh.
+== Лот не найден — обновите.
+
+Price or quantity changed - refresh and try again.
+== Цена/кол-во изменились — обновите.
+
+Seller no longer has this item - refresh.
+== У продавца нет товара — обновите.
+
+You can't receive this item (owner limit reached).
+== Нельзя получить предмет (лимит).
+
+Bought {-} (-{} {-}).
+== Куплено {-} (-{} {-}).
+
+Purchase failed - try again.
+== Покупка не удалась — ещё раз.
+
+Sold {-} (+{} {-}).
+== Продано {-} (+{} {-}).
+
+Lot created.
+== Лот создан.
+
+Could not create the lot.
+== Не удалось создать лот.
+
+Done.
+== Готово.
+
+You already have a lot for this item/currency. Edit or cancel it.
+== Лот для этого предмета/валюты есть.
+
+You no longer own this room.
+== Вы больше не владелец этой комнаты.
+
+You don't have enough of this item.
+== Недостаточно этого предмета.
+
+Not enough time left to sell.
+== Слишком мало времени для продажи.
+
+Price updated.
+== Цена обновлена.
+
+(price is per unit)
+== (цена за единицу товара)
+
+(price is per day)
+== (цена за день)
+
+Days
+== Дни
+
+Buy N days
+== Купить N дней
+
+Bought {} days of {-} (-{} {-}).
+== Куплено {} дн. {-} (-{} {-}).
+
+Sold {} days of {-} (+{} {-}).
+== Продано {} дн. {-} (+{} {-}).
+
+Permanent items can't be sold.
+== Постоянные предметы нельзя продать.
+
+Invalid day count (1..{}).
+== Недопустимое кол-во дней (1..{}).
+
+Stand on the market tile to use the market.
+== Встаньте на тайл рынка, чтобы пользоваться рынком.
+
+Self-destruct arms {} seconds after spawn
+== Самоуничтожение активируется через {} сек. после появления
+
+FPV vehicles are disabled on this server.
+== FPV-транспорт отключён на этом сервере.
+
+Dungeon cleared!
+== Подземелье пройдено!
+
+Paused on {}, press action button to resume
+== Пауза: {}. Нажмите кнопку действия, чтобы продолжить
+
+Paused on {}, use /pause to join again
+== Пауза: {}. Используйте /pause, чтобы вернуться в игру
+
+connection lost
+== потеря соединения
+
+rescue assist
+== спасение
+
+team rescue assist
+== командное спасение
+
+Could not start the vote
+== Не удалось начать голосование
+
+Found {} tracks, use song_add <n>
+== Найдено треков: {}, используй song_add <n>
+
+Lyrics disabled
+== Текст песни выключен
+
+Lyrics enabled
+== Текст песни включён
+
+No such queue position
+== Нет такой позиции в очереди
+
+No such search result, use song_search first
+== Нет такого результата, сначала выполни song_search
+
+Nothing found
+== Ничего не найдено
+
+Nothing is playing right now
+== Сейчас ничего не играет
+
+Now playing: {-} - {-} (requested by {-})
+== Сейчас играет: {-} - {-} (заказал {-})
+
+Now playing: {-} - {-} [{-} / {-}]
+== Сейчас играет: {-} - {-} [{-} / {-}]
+
+Please wait {} seconds before searching again
+== Подожди {} секунд перед следующим поиском
+
+Refunded {} for '{-} - {-}': {}
+== Возвращено {} за '{-} - {-}': {}
+
+Searching for '{-}'...
+== Ищу '{-}'...
+
+Skip voting is disabled
+== Голосование за пропуск отключено
+
+Song search failed: {-}
+== Поиск не удался: {-}
+
+That is not your track
+== Это не твой трек
+
+That track is already playing, use song_skip
+== Этот трек уже играет, используй song_skip
+
+That track is too long
+== Этот трек слишком длинный
+
+The music player is disabled
+== Музыкальный плеер отключён
+
+The queue is empty
+== Очередь пуста
+
+The song queue was cleared
+== Очередь треков очищена
+
+Type the search query in the reason field
+== Введи поисковый запрос в поле причины
+
+Usage: song_search <query>
+== Использование: song_search <запрос>
+
+You already have the maximum number of queued tracks
+== У тебя уже максимум треков в очереди
+
+You are not in game
+== Ты не в игре
+
+You are not in the music world
+== Ты не в музыкальном мире
+
+You cannot afford that track
+== Тебе не хватает денег на этот трек
+
+You must be logged in
+== Нужно войти в аккаунт
+
+You must be logged in to queue a track
+== Нужно войти в аккаунт, чтобы заказать трек
+
+Your level is too low to queue a track
+== Твой уровень слишком мал, чтобы заказывать треки
+
+You must be logged in to search for tracks
+== Нужно войти в аккаунт, чтобы искать треки
+
+Your previous search is still running
+== Твой предыдущий поиск ещё выполняется
+
+{-} queued '{-} - {-}' for {}$
+== {-} заказал '{-} - {-}' за {}
+
+Music
+== Музыка
+
+Queue
+== Очередь
+
+Vote to skip
+== Голосовать за пропуск
+
+Price per second
+== Цена за секунду
+
+Search cooldown
+== Кулдаун поиска
+
+No results yet
+== Результатов пока нет
+
+Nothing is playing
+== Ничего не играет
+
+Remove (refund)
+== Убрать (с возвратом)
+
+That track cannot be played
+== Этот трек нельзя воспроизвести
+
+That result is no longer available
+== Этот результат больше недоступен
+
+A vote to skip this track is already running
+== Голосование за пропуск этого трека уже идёт
+
+The current track was skipped
+== Текущий трек был пропущен
+
+you removed the track
+== ты убрал трек
+
+track skipped before it started
+== трек пропущен до начала воспроизведения
+
+queue cleared
+== очередь очищена
+
+the world could not be reloaded
+== не удалось перезагрузить мир
+
+the track id was rejected
+== идентификатор трека отклонён
+
+the track could not be prepared
+== не удалось подготовить трек
+
+the track could not be downloaded
+== не удалось скачать трек
+
+Paid {}$ for this track, your balance is now {}$
+== Списано {}$ за трек, на счету осталось {}$
+
+No lyrics available for this track
+== Для этого трека нет текста
+
+Queue is empty, returning to the base map
+== Очередь пуста, возвращаемся на базовую карту
+
+Search in reason field
+== Поиск: в поле причины
+
+Max 15 characters
+== Максимум 15 символов
+
+Longer: use /song_search
+== Длиннее — через /song_search
+
+Music Box
+== Музыкальный ящик
+
+<Name>
+== <Название>
+
+<index>
+== <номер>
+
+Please wait {} seconds before starting another skip vote
+== Подожди {} секунд перед следующим голосованием за пропуск
+
+That track is already in the queue
+== Этот трек уже в очереди
