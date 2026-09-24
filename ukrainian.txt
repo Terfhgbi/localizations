@@ -5,7 +5,7 @@ Back
 == Назад
 
 Username
-== Ім'я користувача
+== Імʼя користувача
 
 verified
 == підтверджено
@@ -221,7 +221,7 @@ In this casino you have the opportunity to test your intuition and increase your
 == В цьому казино у вас є можливість перевірити свою інтуїцію й збільшити свої гроші або, навпаки, втратити усі свої кошти.
 
 To place a bet, write the command /bet <amount>, then select the desired bet type and left click with hammer on the bet type button.
-== Щоб зробити ставку, скористайтеся командою /bet <сума>, потім оберіть бажаний тип ставки і клацніть лівою кнопкою миші на кнопку типа ставки.
+== Щоб зробити ставку, скористайтеся командою /bet <сума>, потім оберіть бажаний тип ставки і клацніть лівою кнопкою миші на кнопку типу ставки.
 
 Betting 1-12, 13-24, 24-36 gives x3 if you win (returns your bet and two more on top), at 0 gives x36, odd/red/black/even gives x2.
 == Ставка 1-12, 13-24, 24-36 даёт x3 при виграші (повертає вашу ставку і ще дві зверху), на 0 дає x36, непарне/червоне/чорне/парне дають  x2.
@@ -377,7 +377,7 @@ The minimum amount for the transfer of money is {}.
 == Мінімальна кількість для передачі коштів це {}.
 
 Can't find player with given name.
-== Не вийшло знайти гравця з таким ім'ям.
+== Не вийшло знайти гравця з таким імʼям.
 
 Can't transfer cash to yourself.
 == Не можна передавати гроші самому собі.
@@ -515,7 +515,7 @@ Use 'Call vote' menu to access shop!
 == Використовуйте меню 'Голосування' для доступа до магазину!
 
 Your protected nickname is now '{-}'. Contact administration to change it.
-== Ваш захищений нік тепер '{-}'. Для змінення зв'яжіться з адміністрацією.
+== Ваш захищений нікнейм тепер '{-}'. Для змінення зв'яжіться з адміністрацією.
 
 You in the bank, write '/bank' for info.
 == Ви у банку, напишіть '/bank' для інформації.
@@ -524,7 +524,7 @@ Or use 'Bank' in 'Call vote' menu.
 == Або використовуйте 'Банк' в меню голосування.
 
 '{-}'s blocking spree was ended by '{-}' ({} Kills)
-== Серія блок убивств '{-}' була завершена '{-}' ({} убийств)
+== Серія блок убивств '{-}' була завершена '{-}' ({} убивств)
 
 '{-}' is on a blocking spree with {} kills!
 == '{-}' провів серію із {} блок убивств!
@@ -533,7 +533,7 @@ Entered ghost mode:
 == Вхід в режим привида:
 
 No collision, No hook, No hit
-== Нема колізії, нема хука, нема ударів 
+== Нема колізії, нема гака, нема ударів 
 
 Respawn will return you to game mode
 == Респаун поверне вас в режим гри
@@ -590,7 +590,7 @@ You got your crown.
 == Ви отримали свою корону.
 
 This map does not contain duel arena.
-== Ця карта не містить дуельної арени.
+== Ця мапа не містить дуельної арени.
 
 You are already in duel.
 == Ви вже в дуелі.
@@ -629,7 +629,7 @@ Request sent.
 == Запрос відправлений.
 
 New request from {-} for duel! Type '/duel <name>' to accept.
-== Новий запрос від {-} на дуель! Уведіть '/duel <ім'я>', щоб прийняти його.
+== Новий запрос від {-} на дуель! Уведіть '/duel <імʼя>', щоб прийняти його.
 
 Can't find empty team for you! Try later.
 == Не можу знайти для вас вільну команду! Спробуйте пізніше.
@@ -707,7 +707,7 @@ You can deposit and withdraw money from your account, use the commands '/deposit
 == Ви можете поповнювати і знімати кошти зі свого рахунка, використовуючи команди '/deposit <сума>' і '/withdraw <сума>'.
 
 You can also transfer money to another player, use '/pay <amount> <name>'.
-== Ви також можете перевести гроші іншому гравцю, використовуючи команду '/pay <сума> <ім'я>'.
+== Ви також можете перевести гроші іншому гравцю, використовуючи команду '/pay <сума> <імʼя>'.
 
 Wrong room number. We changed room numbers, check shop to get actual.
 == Неправильний номер кімнати. Ми змінили номера кімнат, перевірте в магазині актуальні номера.
@@ -719,7 +719,7 @@ Can't start game.
 == Неможливо почати гру.
 
 You can't exit from this game.
-== Ви не можете вийти з цього типа гри.
+== Ви не можете вийти з цього типу гри.
 
 Game id '{}' is not mapped with game.
 == Ідентифікатор гри '{}' не зіставлений з грою.
@@ -746,7 +746,7 @@ Kill Protection enabled. Use /exit to leave game.
 == Увімкнений захист від респауна. Скористайтеся /exit, щоб покинути гру.
 
 King of Hill already started, wait until the end.
-== Гра King of Hill вже почалася, дочекайтесь закінчення.
+== Гра King of Hill вже почалася, дочекайтеся закінчення.
 
 '{-}' is the King and received {}$!
 == '{-}' - Король в цій зоні і отримав {}$!
@@ -779,7 +779,7 @@ Not allowed to do that with room owner.
 == Власники кімнати не можуть бути обмежені в правах.
 
 Player is not a room member.
-== Гравець не является участником комнаты.
+== Гравець не є учасником кімнати.
 
 Member added to room {}.
 == Учасник доданий у кімнату {}.
@@ -914,7 +914,7 @@ Use '/room_edit {}' to toggle room item edit mode.
 == Використовуйте '/room_edit {}' для перемикання редагування предметів в кімнаті.
 
 Use '/room_invite {} <name>' to invite member.
-== Використовуйте '/room_invite {} <ім'я>' для запрошення учасників.
+== Використовуйте '/room_invite {} <імʼя>' для запрошення учасників.
 
 You can't buy self lot.
 == Ви не можете купити свій же лот.
@@ -1580,7 +1580,7 @@ You have already linked your discord account. Contact admins if you want to chan
 == Ви вже прив'язали свій дискорд акаунт. Зв'яжіться з адміністрацією, якщо хочете змінити його.
 
 Get an account with '/register <name> <pw>'.
-== Створіть акаунт: '/register <ім'я> <пароль>'.
+== Створіть акаунт: '/register <імʼя> <пароль>'.
 
 Staff
 == Стаф
@@ -1625,7 +1625,7 @@ spectators
 == '{-}' був замучений на {-} секунд ({-})
 
 '{-}' has been muted for {-} seconds
-== '{-}' был замучений на {-} секунд
+== '{-}' був замучений на {-} секунд
 
 Not enough amount for drop {}/{}.
 == Недостатня кількість для викиду {}/{}.
@@ -1853,16 +1853,16 @@ The server is going to shutdown in {} {t}
 == Сервер буде вимкнений через {} {t}
 
 The map is going to reload in {} {t} ({-})
-== Карта буде перезавантажена через {} {t} ({-})
+== Мапа буде перезавантажена через {} {t} ({-})
 
 The map is going to reload in {} {t} ({})
-== Карта буде перезавантажена через {} {t} ({})
+== Мапа буде перезавантажена через {} {t} ({})
 
 The map is going to reload in {} {t}
-== Карта буде перезавантажена через {} {t}
+== Мапа буде перезавантажена через {} {t}
 
 The server shutdown was cancelled.
-== Вимкнення серверу було скасовано.
+== Вимкнення сервера було скасовано.
 
 The map reload was cancelled.
 == Перезавантаження карти скасовано.
@@ -1871,7 +1871,7 @@ The server is shutting down now!
 == Сервер зараз буде вимкнений!
 
 The map is reloading now!
-== Карта зараз буде перезавантажена!
+== Мапа зараз буде перезавантажена!
 
 Language
 == Мова
@@ -1931,19 +1931,19 @@ Name protection check failed ({}).
 == Перевірка захисту нікнейму не пройдена ({}).
 
 Name check still in progress or name already taken by another player!
-== Перевірка нікнейму ще в процесі або ім'я вже зайнято іншим гравцем!
+== Перевірка нікнейму ще в процесі або імʼя вже зайнято іншим гравцем!
 
 Protected name must be at least {} characters long.
-== Захищене ім'я повинне мати не менше {} символів. 
+== Захищене імʼя повинне мати не менше {} символів. 
 
 You already have name protection.
 == У вас уже є захист імені.
 
 This name is already protected by another player.
-== Це ім'я вже захищено іншим гравцем.
+== Це імʼя вже захищено іншим гравцем.
 
 This name is tied to another player's records.
-== Це ім'я вже пов'язано з рекордами іншого гравця.
+== Це імʼя вже повʼязано з рекордами іншого гравця.
 
 Protected nicknames
 == Захищені нікнейми
@@ -1988,7 +1988,7 @@ Rating duel request was canceled.
 == Запит на рейтингову дуель був скасований.
 
 Team size must be at least 2. For 1v1 use a regular duel.
-== Розмір команды має бути мінімум 2. Для 1 на 1 використовуйте звичайну дуель.
+== Розмір команди має бути мінімум 2. Для 1 на 1 використовуйте звичайну дуель.
 
 Team duel
 == Командна дуель
@@ -2036,7 +2036,7 @@ SURRENDER - Forfeit half your bet and end your turn.
 == SURRENDER - Здатися, втративши половину ставки, і завершити хід.
 
 SPLIT - Divide your pair into two separate hands (if your first two cards are identical).
-== SPLIT - Розділити пару на дві окремі руки (якщо перші дві карты ідентичні).
+== SPLIT - Розділити пару на дві окремі руки (якщо перші дві карти ідентичні).
 
 Blackjack started! [Bet-{}]: Your cards: {} ({}). Dealer shows: {} ({}). Choose an action.
 == Блекджек почався! [Ставка-{}]: Ваші карти: {} ({}). У дилера: {} ({}). Оберіть дію.
@@ -2297,7 +2297,7 @@ Spawn Effects
 == Ефекти появи
 
 Looks like you used cheats while going through the map, your finish will not be counted
-== Здається ти використовував чіти під час проходження карти, твій фініш не буде зараховано
+== Здається ти використовував чити під час проходження мапи, твій фініш не буде зараховано
 
 Accept rating duel?
 == Прийняти рейтингову дуель?
@@ -2417,7 +2417,7 @@ You are already controlling your dungeon.
 == Ви вже керуєте своїм підземеллям.
 
 Specify player name.
-== Вкажіть ім'я гравця.
+== Вкажіть імʼя гравця.
 
 Available only inside your dungeon.
 == Доступно тільки всередині вашого підземелля.
@@ -2558,7 +2558,7 @@ No recent attackers to take revenge on.
 == Немає нещодавніх нападників, на яких можна помститися.
 
 Recent attackers loaded. Use the vote menu to pick a revenge target.
-== Нещодавні нападники завантажені. Користуйтеся меню голосування, щоб обрати ціль для помсти.
+== Нещодавні нападники завантажені. Використовуйте меню голосування, щоб обрати ціль для помсти.
 
 You stole {}$ from the dungeon bank!
 == Ви вкрали {}$ з банку підземелля!
@@ -2579,7 +2579,7 @@ The owner's bank was empty. You stole nothing.
 == {} Вчинив(ла) рейд на ваше підземелля, але у вашому банку не було коштів для крадіжки.
 
 Dungeon door must fit completely inside the map.
-== Двері підземелля повинна повністю вміщатися усередині карти.
+== Двері підземелля повинна повністю вміщатися усередині мапи.
 
 Dungeon door requires a 3x3 free area without solid tiles.
 == Для дверей підземелля потрібна ільна область 3×3 без тведих сутностей.
@@ -2588,7 +2588,7 @@ Only one dungeon chest allowed. Remove the existing chest first.
 == Дозволений лише одна скриня підземелля. Спочатку видаліть існуючу скриню.
 
 Dungeon chest must fit completely inside the map.
-== Скриня підземелля повинна повністю вміщатися всередину карти.
+== Скриня підземелля повинна повністю вміщатися всередину мапи.
 
 Dungeon chest requires a 3x2 free area without solid tiles.
 == Для скрині підземелля потрібна вільна область 3×2 без твердих сутностей.
@@ -2750,7 +2750,7 @@ Only %d parallel duels allowed.
 == Дозволено лише %d паралельних дуелей.
 
 \[BlockZomb] {} can't join duels while they're a starting zombie.
-== [BlockZomb] {} не может участвовать в дуэлях, пока является начальным зомби.
+== [BlockZomb] {} не може брати участь в дуелях, поки являється початковим зомбі.
 
 This player has disabled duel requests.
 == Цей гравець вимкнув запити на дуель.
@@ -2813,7 +2813,7 @@ You are not raiding right now.
 == Ви зараз не берете участь в рейді.
 
 The door is already unlocked.
-== Двері вже відкриті.
+== Двері вже відчинені.
 
 Wait for the current lock attempt to finish.
 == Дочекайтеся завершення поточної спробі відімкнення замку.
@@ -2831,7 +2831,7 @@ You don't have any dungeon keys left.
 == У вас не залишилося ключів від підземелля.
 
 Door unlocked! Press fire to begin the raid.
-== Двері відкриті! Натисніть вогонь, щоб почати рейд.
+== Двері відчинені! Натисніть «вогонь», щоб почати рейд.
 
 Wrong lock! The key broke.
 == Неправильний замок! Ключ зламався.
@@ -2855,7 +2855,7 @@ Preparing save layout, please wait...
 == Підготовка макета збереження, будь ласка, зачекайте...
 
 Save mode enabled. Press fire to start your attempt and reach the chest twice in a row within {} seconds per run to confirm.
-== Режим збереження увімкнений. Натисніть вогонь, щоб почати спробу і двічі підряд досягнути скрині протягом {} секунд за спробу для підтвердження.
+== Режим збереження увімкнений. Натисніть «вогонь», щоб почати спробу і двічі підряд досягнути скрині протягом {} секунд за спробу для підтвердження.
 
 You stole {}$ from the dungeon bank ({}% of the maximum raid reward) ({})!
 == Ви вкрали {}$ з банку підземелля ({}% від максимальної нагороди за рейд) ({})!
@@ -2924,7 +2924,7 @@ A Flag-Hunt began. You are the Flag. Run away from the players and let nobody to
 == Почалося полювання на прапор. Ви — прапор. Тікайте від гравців і не дозволяйте нікому торкнутися вас! У вас нескінченні подвійні стрибки, а ваш гак — це реактивний ранець у вигляді прапора.
 
 Game '{}' is not enabled or not supported by map.
-== Гра '{}' не увімкнена або не підтримується картою.
+== Гра '{}' не увімкнена або не підтримується мапою.
 
 The {} flag was captured by '{}' in {~.2} sec
 == Прапор {} був захоплений '{}' за {~.2} сек.
@@ -3035,7 +3035,7 @@ Free Spins finished.
 == Безкоштовні обертання завершено.
 
 Auto-spins finished.
-== Автообертання завершеноы.
+== Автообертання завершено.
 
 Auto-spins stopped: no saved bet.
 == Автообертання зупинені: немає збереженої ставки.
@@ -3125,7 +3125,7 @@ You have been muted for {-} ({-})
 == Ви були замучені на {-} ({-})
 
 This name is already protected.
-== Це ім'я вже захищено.
+== Це імя вже захищено.
 
 Rating duel found. Creating match with '{-}' (Rating: {})
 == Рейтингова дуель знайдена. Створення матчу з '{-}' (Рейтинг: {})
@@ -3281,7 +3281,7 @@ Your find strange companion.
 == Ви знашли дивного компаньйона.
 
 You can place lasers only outside the map!
-== Ви можете розміщати лазери тільки за межами карти!
+== Ви можете розміщати лазери тільки за межами мапи!
 
 Intersection between positions not allowed.
 == Перетин між позиціями не дозволено.
@@ -3476,7 +3476,7 @@ Skip dungeon
 == Пропустити підземелля
 
 Door unlocked. Press fire to begin.
-== Двері відкриті. Натисніть вогонь, щоб почати.
+== Двері відчинені. Натисніть «вогонь», щоб почати.
 
 Exit raid
 == Вийти з рейду
@@ -3566,7 +3566,7 @@ No raid in progress.
 == Рейд в даний момент не триває.
 
 Door already unlocked. Return to raid menu.
-== Двері вже відкриті. Поверніться в меню рейду.
+== Двері вже відчинені. Поверніться в меню рейду.
 
 Just one lock is right, others broke your key!
 == Один замок вірний, інші зламають ключ!
@@ -3584,7 +3584,7 @@ Raid mode enabled. Max reward for ideal run: {}{}
 == Увімкнений режим рейду. Максимальна нагорода за ідеальний захід: {}{}
 
 Play mode enabled. Press fire to start your practice run.
-== Увімкнений режим гри. Натисніть вогонь, щоб розпочати тренувальний захід.
+== Увімкнений режим гри. Натисніть «вогонь», щоб розпочати тренувальний захід.
 
 You are not in dungeon.
 == Ви не в підземеллі.
@@ -3611,7 +3611,7 @@ Dungeon is currently unavailable. Please try again later.
 == Підземелля зараз недоступне. Будь ласка, спробуйте пізніше.
 
 Dungeon {} must fit completely inside the map.
-== Підземелля {} повинно повністю вміщуватися всередину карти.
+== Підземелля {} повинно повністю вміщуватися всередину мапи.
 
 Dungeon {} must stay one tile away from the border.
 == Підземелля {} повинно знаходитися на відстані однієї клітинки від межі.
@@ -3635,10 +3635,10 @@ Remove items available only in edit mode.
 == Видалення предметів доступно тільки в режимі редагування.
 
 Map create failed.
-== Не вдалося створити карту.
+== Не вдалося створити мапу.
 
 Map read failed.
-== Не вдалося прочитати карту.
+== Не вдалося прочитати мапу.
 
 Command available only inside dungeon game.
 == Команда доступна лише всередині гри в підземеллі.
@@ -3761,7 +3761,7 @@ Auto lockpick stopped after {} tries. Not enough keys to unlock the door.
 == Автозламування зупинено після {} спроб. Недостатньо ключів, щоб відчинити двері.
 
 Door unlocked with {} keys! Press fire to begin the raid.
-== Двері відчинені за допомогою {} ключів! Натисніть вогонь, щоб розпочати рейд.
+== Двері відчинені за допомогою {} ключів! Натисніть «вогонь», щоб розпочати рейд.
 
 Refresh attack history
 == Оновіть історію атак
@@ -3956,7 +3956,7 @@ Page
 == Сторінка
 
 Map
-== Карта
+== Мапа
 
 Stars
 == Зірки
@@ -3971,7 +3971,7 @@ Hit to warp
 == Постріл — варп
 
 Vote to create
-== Голос — нова карта
+== Голос — нова мапа
 
 Vote to create new world
 == Голосуй щоб створити новий світ
@@ -3983,7 +3983,7 @@ Aim at a bot and fire to warp into that world.
 == Прицілься в бота і вистріли, щоб телепортуватися в його світ.
 
 Press jump to switch pages, F4 to vote for a new map.
-== Натисни стрибок щоб перемикати сторінки, F4 щоб голосувати за нову карту.
+== Натисни стрибок щоб перемикати сторінки, F4 щоб голосувати за нову мапу.
 
 Use /lobby from any world to return here.
 == Використовуй /lobby в будь-якому світі щоб повернутися сюди.
