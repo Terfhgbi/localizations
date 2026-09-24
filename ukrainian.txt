@@ -128,16 +128,16 @@ Mails
 == Пошта
 
 FNG kill steal protection
-== FNG захист від стила кілів
+== FNG захист від стилу кілів
 
 FNG hook block protection
-== FNG захист від блоку хуком
+== FNG захист від блоку гаком
 
 Extra weapon auto-switch
 == Автозміна доп. зброї
 
 │ ✔ Mark all as read
-== │ ✔ Відмітити все прочитанним
+== │ ✔ Помітити все прочитанним
 
 │ ⬇ Receive all items
 == │ ⬇ Забрати всі предмети
@@ -200,7 +200,7 @@ In this team game, you need to get a team score high enough to win.
 == В цій командній грі вам необхідно набрати командний рахунок достатній для перемоги.
 
 Capture the opposing team's base and hold the flag.
-== Завойовуйте базу протилежної команди й утримуйте  прапор.
+== Завойовуйте базу протилежної команди й утримуйте прапор.
 
 Bomb.
 == Бомба.
@@ -209,7 +209,7 @@ If you have a flag, you have a bomb attached to you.
 == Якщо у вас є прапор, то на вас закріплена бомба.
 
 It will explode if you do not pass it to another player in the allotted time.
-== Вона зірветься якщо не передати її іншому гравцеві за відведений час.
+== Вона вибухне якщо не передати її іншому гравцеві за відведений час.
 
 If you don't have a flag, you have to run away from the player with the flag.
 == Якщо у вас немає прапора, вам потрібно тікати від гравця з прапором.
@@ -218,7 +218,7 @@ The laser should help you cross the obstacles faster.
 == Лазер має допомогти вам скоріше перетинати перешкоди.
 
 In this casino you have the opportunity to test your intuition and increase your money or, on the contrary, lose all your funds.
-== В цьому казино у вас є можливість перевірити свою інтуїцію і збільшити свої гроші або, навпаки, втратити усі свої кошти.
+== В цьому казино у вас є можливість перевірити свою інтуїцію й збільшити свої гроші або, навпаки, втратити усі свої кошти.
 
 To place a bet, write the command /bet <amount>, then select the desired bet type and left click with hammer on the bet type button.
 == Щоб зробити ставку, скористайтеся командою /bet <сума>, потім оберіть бажаний тип ставки і клацніть лівою кнопкою миші на кнопку типа ставки.
@@ -227,7 +227,7 @@ Betting 1-12, 13-24, 24-36 gives x3 if you win (returns your bet and two more on
 == Ставка 1-12, 13-24, 24-36 даёт x3 при виграші (повертає вашу ставку і ще дві зверху), на 0 дає x36, непарне/червоне/чорне/парне дають  x2.
 
 Catching up.
-== Догонялки.
+== Квач.
 
 If you have a flag, you must catch up and hit the hammer and freeze all players.
 == Якщо у вас є прапор, то ви повинні наздогнати й вдарити молотом і заморозити всіх гравців.
@@ -236,7 +236,7 @@ If you don't have a flag, you must run away from the player with the flag.
 == Якщо у вас немає прапора, вам потрібно тікати від гравця з прапором.
 
 If your mate is frozen, hit him with the hammer 10 times to save him.
-== Якщо ваш товариш заморожений, вдарте його молотком 10 раз для спасіння.
+== Якщо ваш товариш заморожений, вдарте його молотком 10 разів для спасіння.
 
 The laser should help you cross obstacles faster.
 == Лазер має допомогти вам скоріше перетинати перешкоди.
@@ -281,13 +281,13 @@ You need to stay in this room until the timer expires.
 == Вам необхіжно протриматися в цій кімнаті до закінчення таймера.
 
 Lasers will hinder you, you need to dodge and avoid them if you want to survive.
-== Лазери будуть заважати вам, вам необхідно ухилятися й уникати їх якщо ви хочете вижити.
+== Лазери будуть заважати вам, тому необхідно ухилятися й уникати їх якщо ви хочете вижити.
 
 Hurry to enter the room with the reward, it opens 5 seconds before the timer expires.
-== Встигнете зайти в кімнату з нагородою, вона відкривається за 5 секунд до закінчення таймеру.
+== Встигніть зайти в кімнату з нагородою, вона відкривається за 5 секунд до закінчення таймера.
 
 Use the command '/showothers' to see the other participants.
-== Використовуй команду '/showothers', щоб бачити решти учасників.
+== Скористайтеся командою '/showothers', щоб бачити решту учасників.
 
 Tournament.
 == Турнір. 
@@ -317,7 +317,7 @@ Roulette result: Number: {}!
 == Результат рулетки: Номер: {}!
 
 You created bet ({}$ to {}), wait {} seconds until start.
-== Ви зробили ставку ({}$ на {}), почекайте {} секунд до початку.
+== Ви зробили ставку ({}$ на {}), зачекайте {} секунд до початку.
 
 zero
 == нуль
@@ -374,7 +374,7 @@ You don't have this cash amount.
 == У вас немає такої кількості грошей.
 
 The minimum amount for the transfer of money is {}.
-== Мінімальна кількість для для передачі коштів це {}.
+== Мінімальна кількість для передачі коштів це {}.
 
 Can't find player with given name.
 == Не вийшло знайти гравця з таким ім'ям.
