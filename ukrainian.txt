@@ -3498,3 +3498,504 @@ Collect gold
 
 Mine
 == Шахта
+
+Raids
+== Рейди
+
+Lifetime
+== Час існування
+
+Age
+== Вік
+
+days
+== днів
+
+Finishes
+== Фініши
+
+Avg deaths
+== Середня кількість смертей
+
+Difficulty
+== Складність
+
+Move to new dungeon
+== Переїхати в нове підземелля
+
+Age unknown
+== Вік невідомий
+
+Play
+== Гра
+
+Upgrade trap
+== Покращити пастку
+
+Edit dungeon
+== Редагувати підземелля
+
+Search dungeon to raid (Reserve 1 Key)
+== Почати рейд (Резерв 1 ключ)
+
+Open attack history
+== Відкрити історію атак
+
+Actions
+== Дії
+
+Back to play mode
+== Назад в режим гри
+
+Start save mode
+== Увімкнути режим збереження
+
+Edit
+== Редагування
+
+Reset edit layout
+== Скинути стан редактора
+
+Save
+== Збереження
+
+Back to edit
+== Назад до редагування
+
+No raid in progress.
+== Рейд в даний момент не триває.
+
+Door already unlocked. Return to raid menu.
+== Двері вже відкриті. Поверніться в меню рейду.
+
+Just one lock is right, others broke your key!
+== Один замок вірний, інші зламають ключ!
+
+Door locks
+== Замки дверей
+
+picking...
+== зламування...
+
+wrong
+== неправильно
+
+Raid mode enabled. Max reward for ideal run: {}{}
+== Увімкнений режим рейду. Максимальна нагорода за ідеальний захід: {}{}
+
+Play mode enabled. Press fire to start your practice run.
+== Увімкнений режим гри. Натисніть вогонь, щоб розпочати тренувальний захід.
+
+You are not in dungeon.
+== Ви не в підземеллі.
+
+Lock menu available only in raid mode.
+== Меню замків доступне лише в режимі рейду.
+
+Search next raid available only during raid.
+== Пошук наступного рейда доступний лише під час рейду.
+
+Dungeon world not found in cache.
+== Світ підземелля не знайдено в кеші.
+
+Already in requested mode.
+== Вже у запитаному режимі.
+
+Only the owner can do that action.
+== Тільки власник може виконати цю дію.
+
+Saving editor state...
+== Збереження стану редактора...
+
+Dungeon is currently unavailable. Please try again later.
+== Підземелля зараз недоступне. Будь ласка, спробуйте пізніше.
+
+Dungeon {} must fit completely inside the map.
+== Підземелля {} повинно повністю вміщуватися всередину карти.
+
+Dungeon {} must stay one tile away from the border.
+== Підземелля {} повинно знаходитися на відстані однієї клітинки від межі.
+
+Dungeon {} requires a free area without solid tiles.
+== Для підземелля {} потрібна вільна ділянка без твердих сутностей.
+
+Dungeon {} cannot touch traps.
+== Підземелля {} не може торкатися з пастками.
+
+Place items available only in edit mode.
+== Розміщення предметів доступно тільки в режимі редагування.
+
+Dungeon owner data not found in cache.
+== Дані власника підземелля не знайдені в кеші.
+
+Items cannot be placed on dungeon doors or chests.
+== Предмети не можна розміщувати на дверях і скринях підземелля.
+
+Remove items available only in edit mode.
+== Видалення предметів доступно тільки в режимі редагування.
+
+Map create failed.
+== Не вдалося створити карту.
+
+Map read failed.
+== Не вдалося прочитати карту.
+
+Command available only inside dungeon game.
+== Команда доступна лише всередині гри в підземеллі.
+
+Join dungeons?
+== Зайти в підземелля?
+
+Failed to save editor state.
+== Не вдалося зберегти стан редактора.
+
+Collected {}{} from your mine (collection limit reached) and {}{} from raider defeats.
+== Зібрано {}{} з вашої шахти (ліміт збору досягнутий) і {}{} за поразку рейдерів.
+
+Collected {}{} from your mine and {}{} from raider defeats.
+== Зібрано {}{} з вашої шахти і {}{} за поразку рейдерів.
+
+Collected {}{} from your mine (collection limit reached).
+== Зібрано {}{} з вашої шахти (ліміт збору досягнутий).
+
+Collected {}{} from your mine.
+== Зібрано {}{} з вашої шахти.
+
+Collected {}{} from raider defeats in your dungeon.
+== Зібрано {}{} за поразку рейдерів у вашому підземеллі.
+
+Keys collect is disabled in configuration.
+== Збір ключів відключений в конфігурації.
+
+Dungeons upgrade is disabled in configuration.
+== Покращення підземелля вимкнуто в конфігурації.
+
+You claimed {}{} bounty!
+== Ви отримали нагороду {}{}!
+
+Specify a positive reward amount.
+== Вкажіть додатній розмір нагороди.
+
+Only the dungeon owner can create bounties.
+== Лише власник підземелля може створювати нагороди.
+
+You need {}{} to post this bounty.
+== Вам потрібно {}{}, щоб розмістити цю нагороду.
+
+Posted bounty for {}{}.
+== Нагорода на суму {}{} розміщена.
+
+Provide a valid bounty id.
+== Вкажіть коректний ID нагороди.
+
+Starting bounty raid for request #{}...
+== Запускається рейд за нагородою по заявці #{}...
+
+Selected bounty is no longer available.
+== Обрана нагорода більше недоступна.
+
+Raid mode enabled. Finish first to get bounty!
+== Режим рейда увімкнений. Завершіть першим, щоб отримати нагороду!
+
+Dungeon bounties
+== Награди підземелля
+
+Refresh list
+== Оновити список
+
+No active bounties.
+== Активних нагород немає.
+
+Create bounty
+== Створити нагороду
+
+Create a reward for first clear.
+== Створіть нагороду за перше проходження.
+
+Bounties cannot be canceled later.
+== Створені нагороди не можна буде відмінити.
+
+Reward in Reason
+== Нагорода в Reason
+
+min
+== хв
+
+Funds are charged immediately.
+== Кошті списуються одразу.
+
+Make bounty hunt
+== Створити полювання за нагородою
+
+Bounties
+== Нагороди
+
+View active bounties
+== Переглянути активні нагороди
+
+Create bounty hunt
+== Створити полювання за нагородою
+
+Bounty reward must be at least {}{}.
+== Розмір нагороди повинен бути не менш ніж {}{}.
+
+Prolong dungeon
+== Продовжити підземелля
+
+Run auto lockpick
+== Запустити автозламування
+
+Unlock the door via the vote menu or start auto lockpick to begin the raid.
+== Відчиніть двері через меню голосування або запустіть автозламування, щоб почати рейд.
+
+Auto lockpick available only in raid mode.
+== Автозламування доступне тільки в режимі рейду.
+
+No locks available for auto lockpick.
+== Немає замків, доступних для автозламування.
+
+Auto lockpick failed. No available keys.
+== Автозламування не вдалося. Немає доступних ключів.
+
+Auto lockpick stopped after {} tries. Not enough keys to unlock the door.
+== Автозламування зупинено після {} спроб. Недостатньо ключів, щоб відчинити двері.
+
+Door unlocked with {} keys! Press fire to begin the raid.
+== Двері відчинені за допомогою {} ключів! Натисніть вогонь, щоб розпочати рейд.
+
+Refresh attack history
+== Оновіть історію атак
+
+Advent Calendar
+== Адвент-календар
+
+Advent calendar is disabled.
+== Адвент-календар відключений.
+
+Available from Dec 1 to Dec 24 only.
+== Доступний тільки з 1 по 24 грудня.
+
+Login to open advent gifts.
+== Увійдіть в гру, щоб відкрити подарунки адвент-календаря.
+
+Loading advent calendar data, try again in a moment.
+== Завантажуються дані адвент-календаря, спробуйте ще раз через деякий час.
+
+Today's gift is already opened.
+== Сьогоднішній подарунок вже відкритий.
+
+You need to be alive to open a gift.
+== Щоб відкрити подарунок, ви повинні бути живі.
+
+You opened day {} gift and received {}$ and {}!
+== Ви відкрили подарунок {}-го дня й отримали {}$ и {}!
+
+You opened day {} gift and received {}!
+== Ви відкрили подарунок {}-го дня й отримали {}!
+
+You opened day {} gift and received {}$!
+== Ви відкрили подарунок {}-го дня й отримали {}$!
+
+Today
+== Сьогодні
+
+December
+== Грудень
+
+Opens
+== Відкриття
+
+Dec 1 - Dec 24
+== 1–24 грудня
+
+Status
+== Статус
+
+already opened
+== вже відкритий
+
+ready to open
+== готовий до відкриття
+
+Open today's gift
+== Відкрити сьогоднішній подарунок
+
+Resetting dungeon edit layout...
+== Скидається макет підземелля...
+
+Dungeon door cannot overlap dungeon items.
+== Двері підземелля не можуть перекриватися з об'єктами підземелля.
+
+Dungeon chest cannot overlap dungeon items.
+== Скриня підземелля не може перекриватися з об'єктами підземелля.
+
+Dungeon
+== Підземелля
+
+No suitable dungeons found for your skill level.
+== Не знайдено підходящих підземель для вашого рівня навичок.
+
+Already in progress.
+== Уже в процесі.
+
+Dungeons
+== Підземелля
+
+\[{}] '{-}' claimed bounty #{} from '{-}' for {}{}.
+== [{}] '{-}' отримав нагороду #{} у '{-}' за {}{}.
+
+\[{}] '{-}' posted bounty #{} for {}{}!
+== [{}] '{-}' размістив нагороду #{} на {}{}!
+
+You cannot start a bounty raid on your own dungeon.
+== Ви не можете розпочати рейд за нагородою у власному підземеллі.
+
+Save your dungeon at least once before posting bounties.
+== Зберігайте своє підземелля хоча б один раз перед створенням нагороди.
+
+Save your dungeon at least once before sending raid invites.
+== Зберігайте своє підземелля хоча б один раз перед відправкою запрошень в рейд.
+
+Switch view world?
+== Переключити видимий світ?
+
+Become a starting zombie?
+== Стати першим зомбі?
+
+Run auto lockpick?
+== Запустити автозламування?
+
+Join {} dungeon?
+== Зайти в підземелля {}?
+
+Accept {} raid?
+== Прийняти рейд {}?
+
+You can change design only while playing your dungeon.
+== Ви можете змінювати дизайн лише під час гри в своєму підземеллі.
+
+Unknown dungeon design.
+== Невідомиц дизайн підземелля.
+
+This design is already applied.
+== Цей дизайн вже застосований.
+
+You need {}{} to change the design.
+== Вам потрібно {}{}, щоб змінити дизайн.
+
+Dungeon not ready to update design.
+== Підземелля не готове до оновлення дизайну.
+
+You don't have enough cash to change the design.
+== У вас недостатньо коштів, щоб змінити дизайн.
+
+Failed to change dungeon design.
+== Не вдалося змінити дизайн підземелля.
+
+Dungeon design changed to {}.
+== Дизайн підземелля змінено на {}.
+
+Bets
+== Ставки
+
+Jail time
+== Час в тюрмі
+
+Max score
+== Максимальний рахунок
+
+Max rounds
+== Максимум раундів
+
+Allowed weapons
+== Дозволена зброя
+
+Arena order
+== Порядок арен
+
+Random
+== Випадковий
+
+Sequential
+== Послідовний
+
+Select arenas
+== Обрати арени
+
+No arenas available.
+== Немає доступних арен.
+
+seconds
+== cекунд
+
+Duels
+== Дуелі
+
+You need to link your Discord account to activate the promocode.
+== Вам необхідно прив'язати Discord-акаунт для активації промокоду.
+
+Shop preview zone.
+== Зона прев'ю магазина.
+
+All cosmetic items from the shop are now available to try on.
+== Усі косметичні предмети з магазину тепер доступні для примірки.
+
+Activate them through your inventory: skins, hats, trails, effects.
+== Активуйте їх через інвентар: скіни, капелюхи, шлейфи, ефекти.
+
+After leaving the preview zone, your real loadout returns.
+Після виходу з прев'ю зони, ваше реальне спорядження повернеться
+
+Worlds Warp Lobby
+== Меню світів
+
+── Worlds Warp Lobby ──
+== ── Меню світів ──
+
+Page
+== Сторінка
+
+Map
+== Карта
+
+Stars
+== Зірки
+
+Difficulty
+== Складність
+
+Players
+== Гравців
+
+Hit to warp
+== Постріл — варп
+
+Vote to create
+== Голос — нова карта
+
+Vote to create new world
+== Голосуй щоб створити новий світ
+
+Jump to next page
+== Стрибок — наступна сторінка
+
+Aim at a bot and fire to warp into that world.
+== Прицілься в бота і вистріли, щоб телепортуватися в його світ.
+
+Press jump to switch pages, F4 to vote for a new map.
+== Натисни стрибок щоб перемикати сторінки, F4 щоб голосувати за нову карту.
+
+Use /lobby from any world to return here.
+== Використовуй /lobby в будь-якому світі щоб повернутися сюди.
+
+World no longer loaded
+== Світ більше не завантажений
+
+You are already in lobby
+== Ти вже в лобі
+
+You must be alive to hug.
+== Щоб обійнятися, треба бути живим.
+
+You can't hug in solo mode.
+== В соло-режимі не можна обійматися.
