@@ -1998,3 +1998,690 @@ Team duel (drafted)
 
 Clan war
 == Кланова війна
+
+You can't search for rating duel when the server is going to restart soon.
+== Ви не можете шукати рейтингову дуель, коли сервер скоро перезавантажеться.
+
+You are banned from rating system for {} seconds ({}).
+== Ви забанені в системі рейтингу на {} секунд ({}).
+
+Censor system didn't permit your message
+== Система цензури не пропустила ваше повідомлення
+
+You can't sent more then {} same messages in chat.
+== Ви не можете відправляти більше {} однакових повідомлень у чаті.
+
+Rating search is disabled on the server.
+== Рейтинговий пошук вимкнений на цьому сервері.
+
+In this game, you play blackjack against the dealer.
+== В цій грі ви граєте в блекджек проти дилера.
+
+Place a bet using /bet <amount> and then choose an action using the buttons.
+== Зробіть ставку, використовуючи /bet <amount>, після чого оберіть дію за допомогою кнопок.
+
+Actions available:
+== Доступні дії:
+
+CALL - Take an extra card to improve your hand.
+== CALL - Взяти додаткову карту для покращення вашої руки.
+
+STAND - End your turn and let the dealer play.
+== STAND - Завершити хід і дозволити дилеру зіграти.
+
+DOUBLE - Double your bet and receive one additional card.
+== DOUBLE - Подвоїти вашу ставку и отримати одну додаткову карту.
+
+SURRENDER - Forfeit half your bet and end your turn.
+== SURRENDER - Здатися, втративши половину ставки, і завершити хід.
+
+SPLIT - Divide your pair into two separate hands (if your first two cards are identical).
+== SPLIT - Розділити пару на дві окремі руки (якщо перші дві карты ідентичні).
+
+Blackjack started! [Bet-{}]: Your cards: {} ({}). Dealer shows: {} ({}). Choose an action.
+== Блекджек почався! [Ставка-{}]: Ваші карти: {} ({}). У дилера: {} ({}). Оберіть дію.
+
+\[Bet-{}]: You call and received {} ({}). Your total is {} ({}).
+== [Ставка-{}]: Ви взяли карту і отримали {} ({}). Ваш підсумок: {} ({}).
+
+\[Bet-{}]: Bust! You lose your bet of {}$.
+== [Ставка-{}]: Перебір! Ви програли ставку {}$.
+
+\[Bet-{}]: You stand with {} ({}).
+== [Ставка-{}]: Ви зупинились з {} ({}).
+
+\[Bet-{}]: Not enough cash to double.
+== [Ставка-{}]: Недостатньо коштів для подвоєння.
+
+\[Bet-{}]: You double and received {} ({}). Your total is {} ({}).
+== [Ставка-{}]: Вы подвоїли і отримали {} ({}). Ваш підсумок: {} ({}).
+
+\[Bet-{}]: Bust after doubling! You lose your bet of {}$.
+== [Ставка-{}]: Перебір після подвоєння! Ви програли ставку {}$.
+
+\[Bet-{}]: You surrendered. You get back {}$.
+== [Ставка-{}]: Ви здалися. Ви отримали назад {}$.
+
+\[Bet-{}]: Cannot split this hand, the cards are not suitable for splitting.
+== [Ставка-{}]: Цю руку не можна розділити, карти не підходять для спліту.
+
+\[Bet-{}]: Cannot split this hand, only {} split allowed.
+== [Ставка-{}]: Цю руку не можна розділити, тільки {} спліт дозволений.
+
+\[Bet-{}]: Dealer's hand: {} ({}). You win! Your payout is {}$.
+== [Ставка-{}]: Рука дилера: {} ({}). Ви перемогли! Виплата: {}$.
+
+\[Bet-{}]: Dealer's hand: {} ({}). Push. Your bet is returned.
+== [Ставка-{}]: Рука дилера: {} ({}). Нічия. Ваша ставка повернута.
+
+\[Bet-{}]: Dealer's hand: {} ({}). You lose your bet of {}$.
+== [Ставка-{}]: Рука дилера: {} ({}). Ви програли ставку {}$.
+
+\[Bet-{}]: Blackjack!. Your payout is {}$.
+== [Ставка-{}]: Блекджек! Виплата: {}$.
+
+Choose an action for [Bet-{}]. Your cards: {} ({}).
+== Оберіть дію для [Ставка-{}]. Ваші карти: {} ({}).
+
+You are not participating in game. Use /bet <amount> to start.
+== Ви не берете участь в грі. Скористайтеся /bet <сума>, щоб почати.
+
+Hand split into [Bet-{}] and [Bet-{}].
+== Рука разделена на [Ставка-{}] и [Ставка-{}].
+
+Wrong command usage, use '/help {}' for command info.
+== Неправильне використовування команди. Скористайтеся '/help {}' для інформації о команді.
+
+Too many requests.
+== Занадто багато запитів.
+
+Smoke Grenade
+== Димова граната
+
+Currencies
+== Валюти
+
+Inventory
+== Інвентар
+
+Filters
+== Фільтри
+
+User Items
+== Користувальницькі предмети
+
+Bonus Items
+== Бонусні предмети
+
+Role Items
+== Предмети від ролі
+
+You don't have any items with filters selected.
+== У вас немає предметів з обраними фільтрами.
+
+Kits
+== Набори
+
+Unknown
+== Невідомо
+
+Weapon Upgrades
+== Покращення зброї
+
+Other
+== Інше
+
+{}. Buy for {} {t} [{}]
+== {}. Купити на {} {t} [{}]
+
+{}. Buy forever [{}]
+== {}. Купити назавжди [{}]
+
+{}. Buy {} items [{}]
+== {}. Купити {} предметів [{}]
+
+- Use vote reason to buy specific item count.
+== - Використовуйте причину голосування, щоб купити певну кількість предметів.
+
+\[LIMITED] {} left
+== [ОБМЕЖЕНО] залишилось {}
+
+\[LIMITED] expired {} ago
+== [ОБМЕЖЕНО] закінчилось {} назад
+
+Item Info
+== Информація о предметі
+
+Room Info
+== Информація о кімнаті
+
+Max Owners
+== Максимум власників
+
+Max level reached.
+== Максимальний рівень досягнутий.
+
+Upgrading {} → {}
+== Покращення {} → {}
+
+Required Level
+== Необхідний рівень 
+
+Upgrade Time
+== Час покращення
+
+\[Gift for {-}]
+== [Подарунок для {-}]
+
+✧ Want to make a gift?
+== ✧ Хочеш зробити подарунок?
+
+No available data.
+== Немає доступних даних.
+
+Select a player to gift an item to:
+== Оберіть гравця, якому подарувати предмет:
+
+No any players.
+== Немає гравців.
+
+Usage
+== Використовування
+
+Not enough currency to buy:
+== Недостатньо валютм для покупки:
+
+Your level is too low to buy the item. Required level: {}.
+== Ваш рівень занадто низький, щоб купити цей предмет. Необхідний рівень: {}.
+
+You have bought {} items.
+== Ви купили {} предметів.
+
+You have started upgrading the item {} → {}.
+== Ви почали покращувати предмет {} → {}.
+
+You have bought the item forever.
+== Ви купили предмет назавжди.
+
+You have bought the item for {} {}.
+== Ви купили предмет на {} {}.
+
+You have gifted the item.
+== Ви подаруваои предмет.
+
+You have received a gift from '{}'.
+== Ви отримали подарунок від '{}'.
+
+You have received a gift.
+== Ви отримали подарунок.
+
+You have got {} items.
+== Ви отримали {} предметів.
+
+You have got the item forever.
+== Ви отрималипредмет назавжди.
+
+You have got the item for {} {t}.
+== Ви отримали предмет на {} {t}.
+
+Roles
+== Ролі
+
+\[{} items] {}
+== [{} предметів] {}
+
+\[{} items] {} [★]
+== [{} предметів] {} [★]
+
+Fun Items
+== Розважальні предмети
+
+Death Effects
+== Ефекти смерті 
+
+Clan tag protection
+== Захист клантегу
+
+Opening
+== Відкриття
+
+You are already opening a case.
+== Ви уже відкриваєте кейс.
+
+You've successfully opened {}:
+== Ви успішно відкрили {}:
+
+You don't have that many items.
+== У вас немає стільки предметів.
+
+Failed to open case:
+== Не вдалося відкрити кейс:
+
+Sold for {}
+== Продано за {}
+
+The item has been sold for {}.
+== Предмет був проданий за {}.
+
+nothing
+== нічого
+
+\[The item cannot be purchased]
+== [Неможливо купити цей предмет]
+
+The item is on cooldown: {}
+== Предмет буде доступний через: {}
+
+Press F3 to keep the item
+== Натисніть F3, щоб залишити предмет
+
+Press F4 to sell the item for {}
+== Натисніть F4, щоб продати предмет за {}
+
+You received {}$ and {} experience for participation.
+== Ви отримали {}$ і {} досвіду за участь.
+
+You received {}$ and {} experience for your winner place.
+== Ви отримали {}$ і {} досвіду за призове місце.
+
+Total Participants: {}
+== Всього учасників: {}
+
+To main menu
+== В головне меню
+
+Cases
+== Кейси
+
+Spawn Effects
+== Ефекти появи
+
+Looks like you used cheats while going through the map, your finish will not be counted
+== Здається ти використовував чіти під час проходження карти, твій фініш не буде зараховано
+
+Accept rating duel?
+== Прийняти рейтингову дуель?
+
+Accept match?
+== Прийняти матч?
+
+Hunter hook players
+== Мисливець хукає гравців
+
+Weapon hat rotation
+== Поворот капелюха зброї
+
+Keys
+== Ключі
+
+Dungeon reload failed. Try again shortly.
+== Не вдалося перезавантажити підземелля. Спробуйте ще раз трохи пізніше.
+
+World warp failed.
+== Не вдалося втповнити перехід у світ.
+
+Dungeon updated. Warping to new layout...
+== Підземелля оновлено. Перенесення в нову розкладку...
+
+Dungeon warp failed.
+== Не вдалося переміститися в підземелля.
+
+World create failed.
+== Не вдалося створити світ.
+
+Dungeon game not found.
+== Гра підземелля не знайдено.
+
+Warping to '{}' dungeon..
+== Перенесення в підземелля '{}'..
+
+Warping to main world..
+== Перенесення в загальний світ..
+
+You must be logged in.
+== Ви повинні увійти в акаунт.
+
+Not available from dummy.
+== Недоступно для клона.
+
+Not alive.
+== Ви мертві.
+
+Warp available only near the dungeon door.
+== Перехід доступний тільки поруч з дверима підземелля.
+
+Unable to start dungeon warp right now.
+== Зараз не можна почати перехід в підземелля.
+
+Loading your dungeon, please wait.
+== Завантажуємо ваше підземелля, будь ласка, зачекайте.
+
+Dungeon edit mode available only in dungeons.
+== Режим редагування підземелля доступно тільки в підземеллях.
+
+Your dungeon is still loading, please wait...
+== Ваше підземелля все ще завантажується, будь ласка, зачекайте...
+
+You are already in edit mode.
+== Ви вжее знаходитесь в режимі редагування.
+
+Edit mode enabled.
+== Увімкнений режим редагування.
+
+Only the owner can reset edit mode.
+== Лише власник може скинути режим редагування.
+
+Edit reset available only inside your dungeon.
+== Скидання редагування доступне тільки всередині вашого підземелля.
+
+Edit reset available only in edit mode.
+== Скидання редагування доступне тільки в режимі редагування.
+
+Edit layout reset to the saved dungeon.
+== Макет редагування скинуто до збереженого варіанту підземелля.
+
+Only the owner can start save mode.
+== Лише власник може запустити режим збереження.
+
+Save mode available only inside your dungeon.
+== Режим збереження доступний тільки всередині вашого підземелля.
+
+Save mode already active.
+== Режим збереження вже активний.
+
+Enter edit mode before starting save mode.
+== Перед запуском режиму збереження увійдіть в режим редагування.
+
+Your dungeon must contain at least one door.
+== Ваше підземелля повинно мати хоча б одні двері.
+
+Your dungeon must contain at least one chest.
+== Ваше підземелля повинно мати хоча б одну скриню.
+
+Save mode enabled. Press fire to start your attempt and reach the chest twice in a row to confirm.
+== Режим збереження увімкнений. Натисніть «вогонь», щоб почати спробу, й двічі підряд дістаньтеся до скрині для підтвердження.
+
+Only the owner can control their dungeon.
+== Лише власник може керувати своїм підземелля.
+
+Control mode available only inside your dungeon.
+== Режим керування доступний тільки всередині вашого підземелля.
+
+Control mode enabled. Press fire to start your practice run.
+== Режим керування увімкнений. Натисніть «вогонь», щоб почати тренувальний забіг.
+
+Control mode unavailable right now.
+== Режим керування зараз недоступний.
+
+You are already controlling your dungeon.
+== Ви вже керуєте своїм підземеллям.
+
+Specify player name.
+== Вкажіть ім'я гравця.
+
+Available only inside your dungeon.
+== Доступно тільки всередині вашого підземелля.
+
+Player is already inside a dungeon.
+== Гравець вже знаходиться в підземеллі.
+
+{} is not near the dungeon door.
+== {} не поруч з дверми підземелля.
+
+Stand near the dungeon door to receive dungeon invites.
+== Встаньте поруч з дверима підземелля, щоб отримувати запрошення в підземелля.
+
+{} didn't accept your dungeon invite.
+== {} не прийняв(ла) ваше запрошення в підземелля.
+
+Dungeon invite failed: player is no longer available.
+== Запрошення в підземелля не вдалося: гравець більше недоступний.
+
+Stand near the dungeon door to accept the invite.
+== Встаньте поруч з дверима підземелля, щоб прийняти запрошення.
+
+{} left the dungeon door.
+== {} відійшов(ла) від дверей підземелля.
+
+Failed to warp to dungeon.
+== Не вдалося виконати переід в підземелля.
+
+Failed to warp to dungeon. Try again later.
+== Не вдалося виконати перехід в підземелля. Спробуйте пізніше.
+
+Dungeon invite failed: dungeon is no longer available.
+== Приглашение в подземелье не удалось: подземелье больше недоступно.
+
+Dungeon invite failed: couldn't warp player.
+== Приглашение в подземелье не удалось: не удалось перенести игрока.
+
+{} accepted your dungeon invite.
+== {} принял(а) ваше приглашение в подземелье.
+
+An invite for this player is already pending.
+== Приглашение для этого игрока уже ожидает ответа.
+
+Unable to start invite vote right now.
+== Сейчас нельзя запустить голосование за приглашение.
+
+Invited {} to your dungeon. Waiting for acceptance...
+== Вы пригласили {} в своё подземелье. Ожидание ответа...
+
+You are not inside a dungeon.
+== Вы не находитесь в подземелье.
+
+You must be in control mode to search for raids.
+== Чтобы искать рейды, вы должны быть в режиме управления.
+
+Dungeon layout is being rebuilt. You'll return shortly.
+== Макет подземелья перестраивается. Вы скоро вернётесь.
+
+You must be logged in to search for raids.
+== Чтобы искать рейды, вы должны войти в аккаунт.
+
+No dungeons to raid right now.
+== Сейчас нет подземелий для рейда.
+
+Raids is disabled in configuration.
+== Рейды отключены в конфигурации сервера.
+
+You need to wait {} before starting another raid.
+== Вам нужно подождать {} перед началом следующего рейда.
+
+You need to wait before starting another raid.
+== Вам нужно подождать перед началом следующего рейда.
+
+Searching for a dungeon to raid...
+== Поиск подземелья для рейда...
+
+You must be inside a dungeon to start the raid.
+== Чтобы начать рейд, вы должны находиться внутри подземелья.
+
+There is no raid to accept right now.
+== Сейчас нет рейда, который можно принять.
+
+Raid already in progress.
+== Рейд уже идёт.
+
+Raid ready. Press fire to break in.
+== Рейд готов. Нажмите «огонь», чтобы ворваться.
+
+You are not raiding a dungeon.
+== Вы сейчас не совершаете рейд на подземелье.
+
+You can only switch targets before the raid starts.
+== Вы можете сменить цель только до начала рейда.
+
+You need {}{} to search for another dungeon.
+== Вам нужно {}{}, чтобы искать другое подземелье.
+
+Searching for another dungeon to raid...
+== Поиск другого подземелья для рейда...
+
+Your dungeon is being raided by {}
+== Ваше подземелье сейчас атакует {}.
+
+Dungeon is locked by another raid. Try again in {}.
+== Подземелье заблокировано другим рейдом. Попробуйте снова через {}.
+
+Dungeon is locked by another raid. Try again soon.
+== Подземелье заблокировано другим рейдом. Попробуйте ещё раз позже.
+
+You must stand near the dungeon door to start a raid.
+== Чтобы начать рейд, вы должны стоять рядом с дверью подземелья.
+
+You already avenged this attack.
+== Вы уже отомстили за эту атаку.
+
+That attacker is no longer available for revenge. Refresh the list first.
+== Этот нападавший больше недоступен для мести. Сначала обновите список.
+
+Invalid revenge target.
+== Неверная цель для мести.
+
+Reach the chest twice in a row to save automatically. Progress reset.
+== Доберитесь до сундука два раза подряд, чтобы сохранить автоматически. Прогресс сброшен.
+
+Dungeon save confirmed!
+== Сохранение подземелья подтверждено!
+
+Dungeon saved
+== Подземелье сохранено
+
+Width and height must be > 10.
+== Ширина и высота должны быть > 10.
+
+Generated dungeon template ID: {}
+== Сгенерирован шаблон подземелья с ID: {}
+
+No recent attackers to take revenge on.
+== Нет недавних нападавших, на которых можно отомстить.
+
+Recent attackers loaded. Use the vote menu to pick a revenge target.
+== Недавние нападавшие загружены. Используйте меню голосования, чтобы выбрать цель для мести.
+
+You stole {}$ from the dungeon bank!
+== Вы украли {}$ из банка подземелья!
+
+Raid recorded, but the owner's bank balance couldn't be read. No payout this time.
+== Рейд записан, но баланс банка владельца не удалось прочитать. В этот раз без награды.
+
+The owner's bank was empty. You stole nothing.
+== Банк владельца был пуст. Вы ничего не украли.
+
+{} raided your dungeon and stole {}$ (1% of your bank).
+== {} совершил(а) рейд на ваше подземелье и украл(а) {}$ (1% вашего банка).
+
+{} raided your dungeon, but the reward could not be processed.
+== {} совершил(а) рейд на ваше подземелье, но награду не удалось обработать.
+
+{} raided your dungeon, but your bank had no funds to steal.
+== {} совершил(а) рейд на ваше подземелье, но в вашем банке не было средств для кражи.
+
+Dungeon door must fit completely inside the map.
+== Дверь подземелья должна полностью помещаться внутри карты.
+
+Dungeon door requires a 3x3 free area without solid tiles.
+== Для двери подземелья требуется свободная область 3×3 без твёрдых тайлов.
+
+Only one dungeon chest allowed. Remove the existing chest first.
+== Разрешён только один сундук подземелья. Сначала удалите существующий сундук.
+
+Dungeon chest must fit completely inside the map.
+== Сундук подземелья должен полностью помещаться внутри карты.
+
+Dungeon chest requires a 3x2 free area without solid tiles.
+== Для сундука подземелья требуется свободная область 3×2 без твёрдых тайлов.
+
+Too many items ({}/{}).
+== Слишком много объектов ({}/{}).
+
+Gold already collected. Next collection in {}.
+== Золото уже собрано. Следующий сбор через {}.
+
+Gold collect is disabled in configuration.
+== Сбор золота отключён в конфигурации.
+
+Collected {}{} from your dungeon.
+== Вы собрали {}{} из своего подземелья.
+
+You must be inside your dungeon to upgrade traps.
+== Чтобы улучшать ловушки, вы должны находиться внутри своего подземелья.
+
+Only the owner can upgrade traps.
+== Только владелец может улучшать ловушки.
+
+Dungeon data not loaded yet.
+== Данные подземелья ещё не загружены.
+
+You need to be alive to upgrade traps.
+== Чтобы улучшать ловушки, вы должны быть живы.
+
+Aim closer to a trap to upgrade it (within 3 tiles).
+== Прицельтесь ближе к ловушке, чтобы улучшить её (в пределах 3 тайлов).
+
+This trap is already at maximum level.
+== Эта ловушка уже максимального уровня.
+
+Trap upgrade is disabled in configuration.
+== Улучшение ловушек отключено в конфигурации.
+
+Not enough cash. Need {}{}.
+== Недостаточно средств. Нужно {}{}.
+
+Trap upgraded to level {} ({}{} spent).
+== Ловушка улучшена до уровня {} (потрачено {}{}).
+
+Attempt failed. Consecutive progress reset.
+== Попытка не удалась. Прогресс серии сброшен.
+
+Raid already completed. Use the vote menu to exit when ready.
+== Рейд уже завершён. Используйте меню голосования, чтобы выйти, когда будете готовы.
+
+Raid complete! You can keep practicing or exit through the vote menu.
+== Рейд завершён! Вы можете продолжить тренироваться или выйти через меню голосования.
+
+Run complete. Use the vote menu to exit when you're done.
+== Забег завершён. Используйте меню голосования, чтобы выйти, когда закончите.
+
+Returning to your dungeon...
+== Возвращаем вас в ваше подземелье...
+
+Unable to return automatically. Use the vote menu to exit the raid dungeon.
+== Не удалось вернуть вас автоматически. Используйте меню голосования, чтобы выйти из рейдового подземелья.
+
+Practice run complete. Returning to start.
+== Тренировочный забег завершён. Возвращаем к началу.
+
+Start save mode from edit to record your run.
+== Запустите режим сохранения из режима редактирования, чтобы записать ваш забег.
+
+Chest reached! Progress: {}/2 successful runs.
+== Сундук достигнут! Прогресс: {}/2 успешных забегов.
+
+Saving dungeon automatically...
+== Автоматическое сохранение подземелья...
+
+Reach the chest once more to trigger automatic saving.
+== Доберитесь до сундука ещё раз, чтобы запустить автоматическое сохранение.
+
+------- Top cash -------
+== ------- Топ по грошам -------
+
+------- Top level -------
+== ------- Топ по рівню -------
+
+------- Top rating -------
+== ------- Топ по рейтингу -------
+
+------- Clan members -------
+== ------- Учасники клана -------
+
+------- Top clans cash -------
+== ------- Топ кланів по грошам -------
+
+------- Top clans level -------
+== ------- Топ кланів по рівню -------
+
+------- Room members -------
+== -------
