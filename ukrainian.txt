@@ -2519,151 +2519,151 @@ Searching for another dungeon to raid...
 == Пошук іншого підземелля для рейду...
 
 Your dungeon is being raided by {}
-== Ваше подземелье сейчас атакует {}.
+== Ваше підземелля зараз атакує {}.
 
 Dungeon is locked by another raid. Try again in {}.
-== Подземелье заблокировано другим рейдом. Попробуйте снова через {}.
+== Підземелля заблоковано іншим рейдом. Спробуйте знову через {}.
 
 Dungeon is locked by another raid. Try again soon.
-== Подземелье заблокировано другим рейдом. Попробуйте ещё раз позже.
+== Підземелля заблоковано іншим рейдом. Спробуйте ще раз пізніше.
 
 You must stand near the dungeon door to start a raid.
-== Чтобы начать рейд, вы должны стоять рядом с дверью подземелья.
+== Щоб почати рейд, ви повинні стояти поруч з дверима підземелля.
 
 You already avenged this attack.
-== Вы уже отомстили за эту атаку.
+== Ви вже помстилися за цю атаку.
 
 That attacker is no longer available for revenge. Refresh the list first.
-== Этот нападавший больше недоступен для мести. Сначала обновите список.
+== Цей нападник більше недоступний для помсти. Спочатку оновіть список.
 
 Invalid revenge target.
-== Неверная цель для мести.
+== Невірна ціль для помсти.
 
 Reach the chest twice in a row to save automatically. Progress reset.
-== Доберитесь до сундука два раза подряд, чтобы сохранить автоматически. Прогресс сброшен.
+== Дістаньтеся до скрині два рази підряд, щоб зберегти автоматично. Прогрес скинуто.
 
 Dungeon save confirmed!
-== Сохранение подземелья подтверждено!
+== Збереження підземелля підтверждено!
 
 Dungeon saved
-== Подземелье сохранено
+== Підземелля збережено
 
 Width and height must be > 10.
-== Ширина и высота должны быть > 10.
+== Ширина і висота мають бути > 10.
 
 Generated dungeon template ID: {}
-== Сгенерирован шаблон подземелья с ID: {}
+== Згенерований шаблон підземелля з ID: {}
 
 No recent attackers to take revenge on.
-== Нет недавних нападавших, на которых можно отомстить.
+== Немає нещодавніх нападників, на яких можна помститися.
 
 Recent attackers loaded. Use the vote menu to pick a revenge target.
-== Недавние нападавшие загружены. Используйте меню голосования, чтобы выбрать цель для мести.
+== Нещодавні нападники завантажені. Користуйтеся меню голосування, щоб обрати ціль для помсти.
 
 You stole {}$ from the dungeon bank!
-== Вы украли {}$ из банка подземелья!
+== Ви вкрали {}$ з банку підземелля!
 
 Raid recorded, but the owner's bank balance couldn't be read. No payout this time.
-== Рейд записан, но баланс банка владельца не удалось прочитать. В этот раз без награды.
+== Рейд записаний, але баланс банку власника не вдалося прочитати. В цей раз без нагороди.
 
 The owner's bank was empty. You stole nothing.
-== Банк владельца был пуст. Вы ничего не украли.
+== Банк власника був порожнім. Ви нічого не вкрали.
 
 {} raided your dungeon and stole {}$ (1% of your bank).
-== {} совершил(а) рейд на ваше подземелье и украл(а) {}$ (1% вашего банка).
+== {} Вчинив(ла) рейд на ваше підземелля и вкрав(ла) {}$ (1% вашого банку).
 
 {} raided your dungeon, but the reward could not be processed.
-== {} совершил(а) рейд на ваше подземелье, но награду не удалось обработать.
+== {} Вчинив(ла) рейд на ваше підземелля, але нагороду не вдалося обробити.
 
 {} raided your dungeon, but your bank had no funds to steal.
-== {} совершил(а) рейд на ваше подземелье, но в вашем банке не было средств для кражи.
+== {} Вчинив(ла) рейд на ваше підземелля, але у вашому банку не було коштів для крадіжки.
 
 Dungeon door must fit completely inside the map.
-== Дверь подземелья должна полностью помещаться внутри карты.
+== Двері підземелля повинна повністю вміщатися усередині карти.
 
 Dungeon door requires a 3x3 free area without solid tiles.
-== Для двери подземелья требуется свободная область 3×3 без твёрдых тайлов.
+== Для дверей підземелля потрібна ільна область 3×3 без тведих сутностей.
 
 Only one dungeon chest allowed. Remove the existing chest first.
-== Разрешён только один сундук подземелья. Сначала удалите существующий сундук.
+== Дозволений лише одна скриня підземелля. Спочатку видаліть існуючу скриню.
 
 Dungeon chest must fit completely inside the map.
-== Сундук подземелья должен полностью помещаться внутри карты.
+== Скриня підземелля повинна повністю вміщатися всередину карти.
 
 Dungeon chest requires a 3x2 free area without solid tiles.
-== Для сундука подземелья требуется свободная область 3×2 без твёрдых тайлов.
+== Для скрині підземелля потрібна вільна область 3×2 без твердих сутностей.
 
 Too many items ({}/{}).
-== Слишком много объектов ({}/{}).
+== Занадто багато об'єктів ({}/{}).
 
 Gold already collected. Next collection in {}.
-== Золото уже собрано. Следующий сбор через {}.
+== Золото вже зібрано. Наступний збір через {}.
 
 Gold collect is disabled in configuration.
-== Сбор золота отключён в конфигурации.
+== Збір золота вимкнений в конфігурації.
 
 Collected {}{} from your dungeon.
-== Вы собрали {}{} из своего подземелья.
+== Ви зібрали {}{} зі свого підземелля.
 
 You must be inside your dungeon to upgrade traps.
-== Чтобы улучшать ловушки, вы должны находиться внутри своего подземелья.
+== Щоб покращити пастки, ви повинні знаходитися усередині свого підземелля.
 
 Only the owner can upgrade traps.
-== Только владелец может улучшать ловушки.
+== Лшие власник може покращувати пастки.
 
 Dungeon data not loaded yet.
-== Данные подземелья ещё не загружены.
+== Дані підземелля ще не завантажені.
 
 You need to be alive to upgrade traps.
-== Чтобы улучшать ловушки, вы должны быть живы.
+== Щоб покращувати пастки, ви маєте бути живі.
 
 Aim closer to a trap to upgrade it (within 3 tiles).
-== Прицельтесь ближе к ловушке, чтобы улучшить её (в пределах 3 тайлов).
+== Приціліться ближще до пастки, щоб покращити її (в межах 3 сутностей).
 
 This trap is already at maximum level.
-== Эта ловушка уже максимального уровня.
+== Ця пастка вже максимального рівня.
 
 Trap upgrade is disabled in configuration.
-== Улучшение ловушек отключено в конфигурации.
+== Покращення пасток відключено в конфігурації.
 
 Not enough cash. Need {}{}.
-== Недостаточно средств. Нужно {}{}.
+== Недостатньо коштів. Потрібно {}{}.
 
 Trap upgraded to level {} ({}{} spent).
-== Ловушка улучшена до уровня {} (потрачено {}{}).
+== Пастка покращена до рівня {} (витрачено {}{}).
 
 Attempt failed. Consecutive progress reset.
-== Попытка не удалась. Прогресс серии сброшен.
+== Спроба не вдалася. Прогрес серії скинуто.
 
 Raid already completed. Use the vote menu to exit when ready.
-== Рейд уже завершён. Используйте меню голосования, чтобы выйти, когда будете готовы.
+== Рейд вже закінчено. Скористайтеся меню голосування, щоб вийти, як будете готові.
 
 Raid complete! You can keep practicing or exit through the vote menu.
-== Рейд завершён! Вы можете продолжить тренироваться или выйти через меню голосования.
+== Рейд закінчився! Ви можете продовжити тренуватися або вийти через меню голосування.
 
 Run complete. Use the vote menu to exit when you're done.
-== Забег завершён. Используйте меню голосования, чтобы выйти, когда закончите.
+== Забіг закінчено. Скористайтеся меню голосування, щоб вийти, як закінчете.
 
 Returning to your dungeon...
-== Возвращаем вас в ваше подземелье...
+== Повертаємо вас у ваше підземелля...
 
 Unable to return automatically. Use the vote menu to exit the raid dungeon.
-== Не удалось вернуть вас автоматически. Используйте меню голосования, чтобы выйти из рейдового подземелья.
+== Не вдалося повернути вас автоматично. Скористайтеся меню голосування, щоб вийти з рейдового підземелля.
 
 Practice run complete. Returning to start.
-== Тренировочный забег завершён. Возвращаем к началу.
+== Тренувальний забіг закінчено. Повертаємо на початок.
 
 Start save mode from edit to record your run.
-== Запустите режим сохранения из режима редактирования, чтобы записать ваш забег.
+== Запустіть режим збереження з режиму редагування, щоб записати ваш забіг.
 
 Chest reached! Progress: {}/2 successful runs.
-== Сундук достигнут! Прогресс: {}/2 успешных забегов.
+== Скриня досягнута! Прогрес: {}/2 успішних забігів.
 
 Saving dungeon automatically...
-== Автоматическое сохранение подземелья...
+== Автоматичне збереження підземелля...
 
 Reach the chest once more to trigger automatic saving.
-== Доберитесь до сундука ещё раз, чтобы запустить автоматическое сохранение.
+== Дістаньтеся скрині ще раз, щоб запустити автоматичне збереження.
 
 ------- Top cash -------
 == ------- Топ по грошам -------
@@ -2685,3 +2685,315 @@ Reach the chest once more to trigger automatic saving.
 
 ------- Room members -------
 == -------
+
+You have used x{} {}.
+== Ви використали x{} {}.
+
+You have received the bonus item - {}. Disable '/tu {}'
+== Ви отримали бонусний предмет - {}. Щоб вимкнути, використовуйте '/tu {}'.
+
+\[{}] '{-}' has got {-}!
+== [{}] '{-}' отримав {-}!
+
+Cash must be a positive number.
+== Сума має бути додатнім числом.
+
+You have to deposit at least {}{}.
+== Ви повинні внести мінімум {}{}.
+
+You aren't a member of any clan.
+== Ви не перебуваєте ні в одному клані.
+
+You have successfully deposited {}{} to your clan bank.
+== Ви успішно внесли {}{} в банк клану.
+
+You didn't receive a daily join reward:
+== Ви не отримали щоденну нагороду за вхід:
+
+You have received a daily join reward for {} day:
+== Ви отримали щоденну нагороду за {}-й день:
+
+Your account has been linked to discord '{}'.
+== Ваш акаунт був прив'язаний до Discord'у '{}'.
+
+You lost drawer.
+== Ви втратили малювалку.
+
+You got drawer.
+== Ви отримали малювалку.
+
+You're not logged in.
+== Ви не авторизовані.
+
+You don't have sufficient rights to use this command.
+== У вас недостатньо прав для користування цієї команди.
+
+Client name '{}' not found.
+== Гравця з іменем '{}' не знайдено.
+
+Duel with '{}' not found.
+== Дуель з '{}' не знайдено.
+
+Score updated for '{}'.
+== Рахунок оновлений для '{}'.
+
+Team score updated for '{}'.
+== Командний рахунок оновлений для '{}'.
+
+\[BlockZomb] Starting zombies can't send duel requests during an active round.
+== [BlockZomb] Початкові зомбі не можуть надсилати запити на дуель під час активного раунду.
+
+You can't send a duel while searching for a duel.
+== Ви не можете надіслати запит на дуель під час пошуку дуелі.
+
+Only %d parallel duels allowed.
+== Дозволено лише %d паралельних дуелей.
+
+\[BlockZomb] {} can't join duels while they're a starting zombie.
+== [BlockZomb] {} не может участвовать в дуэлях, пока является начальным зомби.
+
+This player has disabled duel requests.
+== Цей гравець вимкнув запити на дуель.
+
+Player is searching for a duel.
+== Гравець шукає дуель.
+
+Can't create duel, one of participants not valid.
+== Не вдалося створити дуель, один із учасників недійсний.
+
+Can't find valid arena for you.
+== Не вдалося знайти підходящу арену для вас.
+
+\[{}] Ended by timeout!
+== [{}] Завершено за таймаутом!
+
+\[{}] Ended with tie!
+== [{}] Завершено внічию!
+
+Failed to prepare save layout. Please try again.
+== Не вдалося підготувати макет збереження. Спробуйте ще раз.
+
+Raid bank holds up to {}{} on entry.
+== Банк рейду вміщує до {}{} при вході.
+
+You were returned to the main world for being AFK.
+== Ви були повернені в загальний світ через AFK.
+
+Only the owner can regenerate their dungeon.
+== Лише власник може регенерувати своє підземелля.
+
+Your mine is still active. Regenerate once it runs dry.
+== Ваша шахта все ще активна. Перегенеруйте, коли вона вичерпається.
+
+Dungeon regeneration is already in progress.
+== Регенерація підземелля вже виконується.
+
+Your dungeon is busy. Try again shortly.
+== Ваше підземелля зайнято. Спробуйте трохи пізніше.
+
+Regeneration is available only inside your dungeon.
+== Регенерація доступна тільки всередині вашого підземелля.
+
+You cannot regenerate while a raid is in progress.
+== Ви не можете регенерувати під час активного рейду.
+
+Regenerating your dungeon...
+== Регенерація вашого підземелля...
+
+You need a dungeon key to search for raids.
+== Вам потрібен ключ від підземелля для пошуку рейдів.
+
+Unable to reserve a dungeon key right now. Try again in a moment.
+== Не вдалося зарезервувати ключ від підземелля. Спробуйте за мить.
+
+Unable to return your reserved dungeon key right now. Please try again later.
+== Не вдалося повернути зарезервований ключ від підземелля. Спробуйте пізніше.
+
+You are not raiding right now.
+== Ви зараз не берете участь в рейді.
+
+The door is already unlocked.
+== Двері вже відкриті.
+
+Wait for the current lock attempt to finish.
+== Дочекайтеся завершення поточної спробі відімкнення замку.
+
+This lock is already broken.
+== Цей замок вже зламаний.
+
+You need a dungeon key to try a lock.
+== Вам потрібен ключ від підземелля для спроби відімкнути замок.
+
+Unable to use a key right now. Try again in a moment.
+== Не вдалося використати ключ зараз. Спробуйте за мить.
+
+You don't have any dungeon keys left.
+== У вас не залишилося ключів від підземелля.
+
+Door unlocked! Press fire to begin the raid.
+== Двері відкриті! Натисніть вогонь, щоб почати рейд.
+
+Wrong lock! The key broke.
+== Неправильний замок! Ключ зламався.
+
+Can't raid that dungeon, owner is online.
+== Не можна здійснити рейд на це підземелля, власник онлайн.
+
+Reach the chest twice in a row within {} seconds per run to save automatically. Progress reset.
+== Досягніть скрині двічі підряд протягом {} секунд за спробу для автозбереження. Прогрес скинуто.
+
+Dungeon regeneration failed.
+== Регенерація підземелля не вдалася.
+
+Your dungeon is being regenerated. Please wait...
+== Ваше підземелля регенерується. Будь ласка, зачекайте...
+
+Dungeon save layout is being prepared, please wait...
+== Макет збереження підземелля готується, будь ласка, зачекайте...
+
+Preparing save layout, please wait...
+== Підготовка макета збереження, будь ласка, зачекайте...
+
+Save mode enabled. Press fire to start your attempt and reach the chest twice in a row within {} seconds per run to confirm.
+== Режим збереження увімкнений. Натисніть вогонь, щоб почати спробу і двічі підряд досягнути скрині протягом {} секунд за спробу для підтвердження.
+
+You stole {}$ from the dungeon bank ({}% of the maximum raid reward) ({})!
+== Ви вкрали {}$ з банку підземелля ({}% від максимальної нагороди за рейд) ({})!
+
+Dungeon door must stay one tile away from the border.
+== Двері підземелля мають бути на відстані однієї клітинки від межі.
+
+Dungeon chest must stay one tile away from the border.
+== Скриня підземелля має бути на відстані однієї клітинки від межі.
+
+Your mine is depleted. Move to a new dungeon to resume income.
+== Ваша шахта истощена. Вашу шахту виснажено. Перемістіться в нове підземелля, щоб відновити дохід.
+
+No gold to collect yet. Next gold in {}.
+== Золота для збіру поки немає. Наступне золото через {}.
+
+No gold to collect yet.
+== Золота для збіру поки немає.
+
+Collected {}{} from your dungeon (collection limit reached).
+== Зібрано {}{} з вашого підземелля (досягнутий ліміт збору).
+
+No keys to collect yet. Next key in {}.
+== Ключів для збору поки немає. Наступний ключ через {}.
+
+No keys to collect yet.
+== Ключів для збору поки немає.
+
+Failed to collect keys. Try again later.
+== Не вдалося зібрати ключі. Спробуйте пізніше.
+
+Collected {} dungeon key(s) from your dungeon.
+== Зібрано {} ключ(ів) з вашого підземелля.
+
+Attempt took longer than {} seconds. Progress reset.
+== Спроба тривала понад {} секунд. Прогрес скинуто.
+
+Your spent keys have been returned for a perfect raid.
+== Ваші витрачені ключі були повернуті за ідеальний рейд.
+
+Reach the chest once more within {} seconds to trigger automatic saving.
+== Досягніть скрині ще раз протягом {} секунд для запуску автоматичного збереження.
+
+Flag-Hunt over. Nobody won!
+== Полювання за прапором завершено. Ніхто не переміг!
+
+Flag-Hunt warmup: {~.2}
+== Розминка полювання на прапор: {~.2}
+
+A Flag-Hunt began. Find and touch the Flag!
+== Почалося полювання на прапор. Знайдіть і торкніться прапора!
+
+Flag-Hunt over: '{}' won!
+== Полювання на прапор завершено: '{}' переміг!
+
+Flag hunt already in progress.
+==  Полювання на прапор вже йде.
+
+Flag hunt is not allowed, invalid target player.
+==  Полювання на прапор не дозволена, недійсний цільовий гравець.
+
+Flag-Hunt is on cooldown. Remaining seconds : {}s
+==  Полювання на прапор на перезарядці. Залишилось секунд: {}с
+
+A Flag-Hunt began. You are the Flag. Run away from the players and let nobody touch you! You have endless double jumps and your hook is a jetpack as a flag.
+== Почалося полювання на прапор. Ви — прапор. Тікайте від гравців і не дозволяйте нікому торкнутися вас! У вас нескінченні подвійні стрибки, а ваш гак — це реактивний ранець у вигляді прапора.
+
+Game '{}' is not enabled or not supported by map.
+== Гра '{}' не увімкнена або не підтримується картою.
+
+The {} flag was captured by '{}' in {~.2} sec
+== Прапор {} був захоплений '{}' за {~.2} сек.
+
+Wait next round to make a Bet!
+== Зачекайте наступного раунду, щоб зробити ставку!
+
+Block this player too fast.
+== Ви занадто швидко блокуєте цього гравця.
+
+Players count not enough {}/{}
+== Недостатньо гравців: {}/{}
+
+No points for dummy.
+== Немає очок для даммі.
+
+Block zone not triggered.
+Зона блока не активовано.
+
+No block points for afk players.
+== Немає очок за блок для AFK-гравців.
+
+No points for clan member.
+== Немає очок за члена клану.
+
+'{}' was too slow and exploded.
+== '{}' був занадто повільним і вибухнув.
+
+'{}' {} by '{}'
+== '{}' {} від '{}'
+
+Game option vote failed
+== Голосування за опцію гри не пройшло
+
+Crashed on {~.2}! You lose!
+== Краш на {~.2}! Ви програли!
+
+No winner in this event!
+== Немає переможців в цьому заході!
+
+'{-}'s killing spree was ended by '{-}' ({} Kills)
+== Серія убивств '{-}' була перервана '{-}' ({} убивств)
+
+{} is already started.
+== {} вже запущений.
+
+{} is disabled.
+== {} відключений.
+
+{} can't be stopped as default game.
+== {} не може бути зупинено як гра за умовчанням.
+
+Leaver protection, wait {} seconds until re-join.
+== Захист від ліверів, зачекайте {} секунд до повторного з'єднання.
+
+Now you are a hunter, you need to find all the players on the map and catch them.
+== Тепер ви мисливець, вам потрібно знайти всіх гравців на карті й спіймати їх.
+
+{} {}s (+15s)
+== {} {}с (+15с)
+
+{} [{}] finished in: {} minute(s) {~.2} second(s)
+== {} [{}] фінішував за: {} хвилин(и) {~.2} секунд(и)
+
+{} lap finished in: {} minute(s) {~.2} second(s)
+== {} круг закінчений за: {} хвилин(и) {~.2} секунд(и)
+
+Sorry, {}, you're dead.
+== Пробачте, {}, ви мертві.
+
+You have not enough cash to repeat previous bet of {}$, use '/bet <amount>'
+== Недостатньо коштів для повторення попередньої ставки {}$, використовуйте '/bet <сума>'
